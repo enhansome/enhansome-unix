@@ -132,7 +132,7 @@
             "last_commit": "2024-06-25T18:13:44Z",
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162097
+            "stars": 162103
           }
         },
         {
@@ -185,7 +185,7 @@
             "last_commit": "2026-08-03T13:15:16Z",
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26199
+            "stars": 26200
           }
         },
         {
@@ -247,7 +247,7 @@
             "last_commit": "2026-08-05T06:11:04Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 313645
+            "stars": 313701
           }
         },
         {
@@ -337,7 +337,7 @@
             "last_commit": "2026-08-11T17:44:47Z",
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 110836
+            "stars": 110871
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-03-04T11:01:49Z",
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30819
+            "stars": 30823
           }
         },
         {
@@ -469,7 +469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:27:42.741Z",
+    "last_updated": "2026-08-13T11:12:47.303Z",
     "original_repository": "sirredbeard/awesome-unix",
     "original_repository_sha": "c8d0bb5c7eca2a0d140f71c09f84d4e90264df0a",
     "enhanced_repository": "enhansome/enhansome-unix",
