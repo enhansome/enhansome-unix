@@ -1,0 +1,479 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Frequently Asked Questions"
+    },
+    {
+      "description": "UNIX is the greatest operating system family ever invented you have probably never heard about whose genius design ideas now enable everything great you love.",
+      "items": [],
+      "title": "What is UNIX"
+    },
+    {
+      "description": "The ideas behind UNIX®, a research operating system from AT&T in the 1960s, have evolved to form a set of core computer science principles around which dozens of operating systems are built. These operating systems and applications built on them underpin most of modern computing, from the mobile devices in your pocket to mainframes that perform climate change analysis. They exist on a continuum that includes certified UNIX®, open source projects descended from the original AT&T UNIX®, and Unix-like projects designed to be Unix-compatible.",
+      "items": [],
+      "title": "Why is UNIX relevant today"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Disambiguation: AT&T UNIX®, UNIX® Certification, UNIX®-Like, and Linux®"
+    },
+    {
+      "description": "UNIX® was originally a research operating system developed at AT&T's Bell Labs.® It has evolved today into a set of operating systems standards, called POSIX® overseen by the IEEE®, and official certifications that can be obtained by companies for their commercial operating systems, through a process administrated by The Open Group®. Among the operating systems certified as UNIX are massive mainframe operating systems like IBM®'s AIX® as well Apple®'s macOS® desktop operating for their MacBook® and iMac® lineup.",
+      "items": [],
+      "title": "Commercial UNIX"
+    },
+    {
+      "description": "\"Unix philosophy\" is a core set of computer science principles, first implemented in UNIX®, now codified in standards set forth by IEEE® and The Open Group®, and duplicated in dozens of UNIX®-like operating systems that emphasize building simple, short, clear, modular, and extensible software on a common set of programming standards and libraries that allow that software to be easily maintained and repurposed by developers other than its creators, across numerous operating systems and platforms. This enables the rapid spread and development of new and better software. It goes hand in hand with open source philosophy.",
+      "items": [],
+      "title": "\"Unix Philosophy\""
+    },
+    {
+      "description": "The term UNIX also debatedbly encompasses operating systems that are direct descendants of the original AT&T UNIX codebase but have since re-implemented the AT&T code with code under open source licenses. The most prominent of which the family of BSDs: FreeBSD, OpenBSD, and NetBSD, and their derivatives. These are not UNIX® certified, they are technically Unix-like, but share a unique direct link back to AT&T UNIX®, while newcomers like Redox OS do not.",
+      "items": [],
+      "title": "AT&T UNIX®-Derived Descendants, e.g FreeBSD®"
+    },
+    {
+      "description": "For a variety of historical and legal reasons, there has also been a massive explosion of Unix-like operating systems. MINIX®, for example, was created as a Unix-like teaching operating system by Prof. Andrew S. Tanenbaum. Linux® was created because Linus Torvalds, a college student, wanted to run a Unix-like operating system on his own hardware. Linux® has since gone on to become the most popular Unix-like operating system. Twenty years later, when Android, Inc.® needed a kernel for their new namesake mobile operating system they borrowed one from Linux. Unix-like operating systems implement some degree of the POSIX® standards and Unix philosophy but do not seek official UNIX® certification.",
+      "items": [],
+      "title": "Unix®-Like Operating Systems, e.g. Linux®"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "*NIXes"
+    },
+    {
+      "description": "As of 2023, there are no more UNIX®-certified Linux-based operating systems. The last two being K-UX® from Inspur and EulerOS® from Huawei.\nMany Linux-based operating systems include a UNIX® compatability add-on that pass OpenGroup UNIX® compatability suite tests, but the Linux vendors no longer obtain UNIX® certification.",
+      "items": [],
+      "title": "UNIX-Certified Linux-Based Operating Systems"
+    },
+    {
+      "description": "The Most Popular Unix-Like Operating System. These operating systems are not UNIX® certified by The Open Group.",
+      "items": [],
+      "title": "Linux"
+    },
+    {
+      "description": "These operating systems are not UNIX® certified by The Open Group.",
+      "items": [],
+      "title": "Other Unix®-Like Operating Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ToaruOS",
+          "description": "ToaruOS is a hobbyist, educational, Unix-like operating system built entirely from scratch. It includes a kernel, bootloader, dynamic linker, C standard library, composited windowing system, and several utilities and applications .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T08:43:20Z",
+            "owner": "klange",
+            "repo": "toaruos",
+            "stars": 6823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minoca OS",
+          "description": "Minoca OS is a general purpose operating system written from scratch. It aims to be lean, maintainable, modular, and compatible with existing software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-12-17T08:35:39Z",
+            "owner": "minoca",
+            "repo": "os",
+            "stars": 2788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Akaros",
+          "description": "Akaros is an open source, GPL-licensed operating system for manycore architectures. The goal is to provide support for parallel and high-performance applications and to scale to a large number of cores .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-02-24T18:27:53Z",
+            "owner": "brho",
+            "repo": "akaros",
+            "stars": 326
+          }
+        }
+      ],
+      "title": "More Unix-Like Operating Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Additional Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "More UNIX®"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Art of Command Line",
+          "description": "Master the command line, in one page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-25T18:13:44Z",
+            "owner": "jlevy",
+            "repo": "the-art-of-command-line",
+            "stars": 162097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Command Line Apps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-03-04T11:04:17Z",
+            "owner": "herrbischoff",
+            "repo": "awesome-command-line-apps",
+            "stars": 4206
+          }
+        }
+      ],
+      "title": "Introductory UNIX® Skills"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Introductory Programming Skills"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Rust",
+          "description": "A curated list of Rust code and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:42:33Z",
+            "owner": "rust-unofficial",
+            "repo": "awesome-rust",
+            "stars": 58814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Swift",
+          "description": "A collaborative list of awesome Swift libraries and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-03T13:15:16Z",
+            "owner": "matteocrippa",
+            "repo": "awesome-swift",
+            "stars": 26199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Modern C++",
+          "description": "A collection of resources on modern C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-08-20T19:26:37Z",
+            "owner": "rigtorp",
+            "repo": "awesome-modern-cpp",
+            "stars": 13124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust Learning",
+          "description": "A bunch of links to blog posts, articles, videos, etc for learning Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-29T08:20:56Z",
+            "owner": "ctjhoa",
+            "repo": "rust-learning",
+            "stars": 12230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome C",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-09-27T14:10:08Z",
+            "owner": "inputsh",
+            "repo": "awesome-c",
+            "stars": 3858
+          }
+        }
+      ],
+      "title": "C Language and Derivatives"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Python",
+          "description": "A curated list of awesome Python frameworks, libraries, software, and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T06:11:04Z",
+            "owner": "vinta",
+            "repo": "awesome-python",
+            "stars": 313645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Awesomeness",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-06-02T22:46:41Z",
+            "owner": "bayandin",
+            "repo": "awesome-awesomeness",
+            "stars": 33603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python Learning Resources",
+          "description": "Resources for learning Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-31T18:19:44Z",
+            "owner": "CodementorIO",
+            "repo": "Python-Learning-Resources",
+            "stars": 1065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Fortran",
+          "description": "A curated list of Fortran libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-02T15:12:44Z",
+            "owner": "rabbiabram",
+            "repo": "awesome-fortran",
+            "stars": 415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Programming",
+          "description": "A curated list of awesome programming talks, articles, books, resources and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-03-06T05:26:03Z",
+            "owner": "hardikvasa",
+            "repo": "awesome-programming",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "learning-fortran",
+          "description": "Repository created in order to learn basics of Fortran, with links to several tutorials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "FORTRAN",
+            "last_commit": "2022-08-24T08:16:09Z",
+            "owner": "pwittchen",
+            "repo": "learning-fortran",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Other Programming Languages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Mac",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-11T17:44:47Z",
+            "owner": "jaywcjlove",
+            "repo": "awesome-mac",
+            "stars": 110836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome macOS Command Line",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-03-04T11:01:49Z",
+            "owner": "herrbischoff",
+            "repo": "awesome-macos-command-line",
+            "stars": 30819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mocker",
+          "description": "Docker-compatible container CLI for macOS, built on Apple's Containerization framework. Open source (AGPL-3.0), Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-09T19:31:46Z",
+            "owner": "us",
+            "repo": "mocker",
+            "stars": 321
+          }
+        }
+      ],
+      "title": "More macOS®"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome OpenBSD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-05T08:44:07Z",
+            "owner": "ligurio",
+            "repo": "awesome-openbsd",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome BSD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-02T14:50:04Z",
+            "owner": "DiscoverBSD",
+            "repo": "awesome-bsd",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BSD Distributions Timeline",
+          "description": "Graph of BSD distributions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-06-12T13:38:13Z",
+            "owner": "FabioLolix",
+            "repo": "BSD-Timeline",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "More BSD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Linux Software",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2026-05-03T08:15:18Z",
+            "owner": "luong-komorebi",
+            "repo": "Awesome-Linux-Software",
+            "stars": 25564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Linux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2023-02-04T17:02:53Z",
+            "owner": "inputsh",
+            "repo": "awesome-linux",
+            "stars": 5108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linux Distribution Timeline",
+          "description": "Graph of Linux distributions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-09T22:54:44Z",
+            "owner": "FabioLolix",
+            "repo": "LinuxTimeline",
+            "stars": 2196
+          }
+        }
+      ],
+      "title": "More Linux®"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:27:42.741Z",
+    "original_repository": "sirredbeard/awesome-unix",
+    "original_repository_sha": "c8d0bb5c7eca2a0d140f71c09f84d4e90264df0a",
+    "enhanced_repository": "enhansome/enhansome-unix",
+    "enhanced_repository_description": null,
+    "title": "Awesome UNIX® with stars"
+  }
+}
