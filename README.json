@@ -132,7 +132,7 @@
             "last_commit": "2024-06-25T18:13:44Z",
             "owner": "jlevy",
             "repo": "the-art-of-command-line",
-            "stars": 162113
+            "stars": 162130
           }
         },
         {
@@ -168,10 +168,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T17:56:17Z",
+            "last_commit": "2026-08-15T23:24:05Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58841
+            "stars": 58849
           }
         },
         {
@@ -185,7 +185,7 @@
             "last_commit": "2026-08-03T13:15:16Z",
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26205
+            "stars": 26209
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2024-08-20T19:26:37Z",
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13128
+            "stars": 13129
           }
         },
         {
@@ -244,10 +244,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-05T06:11:04Z",
+            "last_commit": "2026-08-16T09:06:33Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314057
+            "stars": 314227
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33608
+            "stars": 33610
           }
         },
         {
@@ -334,10 +334,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-14T12:09:24Z",
+            "last_commit": "2026-08-16T02:56:08Z",
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 111086
+            "stars": 111164
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-03-04T11:01:49Z",
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30827
+            "stars": 30829
           }
         },
         {
@@ -365,7 +365,7 @@
             "last_commit": "2026-08-09T19:31:46Z",
             "owner": "us",
             "repo": "mocker",
-            "stars": 321
+            "stars": 325
           }
         }
       ],
@@ -433,7 +433,7 @@
             "last_commit": "2026-05-03T08:15:18Z",
             "owner": "luong-komorebi",
             "repo": "Awesome-Linux-Software",
-            "stars": 25565
+            "stars": 25566
           }
         },
         {
@@ -469,7 +469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T10:42:18.548Z",
+    "last_updated": "2026-08-16T10:42:51.459Z",
     "original_repository": "sirredbeard/awesome-unix",
     "original_repository_sha": "c8d0bb5c7eca2a0d140f71c09f84d4e90264df0a",
     "enhanced_repository": "enhansome/enhansome-unix",
