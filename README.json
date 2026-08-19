@@ -1,67 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Frequently Asked Questions"
-    },
-    {
-      "description": "UNIX is the greatest operating system family ever invented you have probably never heard about whose genius design ideas now enable everything great you love.",
-      "items": [],
-      "title": "What is UNIX"
-    },
-    {
-      "description": "The ideas behind UNIX®, a research operating system from AT&T in the 1960s, have evolved to form a set of core computer science principles around which dozens of operating systems are built. These operating systems and applications built on them underpin most of modern computing, from the mobile devices in your pocket to mainframes that perform climate change analysis. They exist on a continuum that includes certified UNIX®, open source projects descended from the original AT&T UNIX®, and Unix-like projects designed to be Unix-compatible.",
-      "items": [],
-      "title": "Why is UNIX relevant today"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Disambiguation: AT&T UNIX®, UNIX® Certification, UNIX®-Like, and Linux®"
-    },
-    {
-      "description": "UNIX® was originally a research operating system developed at AT&T's Bell Labs.® It has evolved today into a set of operating systems standards, called POSIX® overseen by the IEEE®, and official certifications that can be obtained by companies for their commercial operating systems, through a process administrated by The Open Group®. Among the operating systems certified as UNIX are massive mainframe operating systems like IBM®'s AIX® as well Apple®'s macOS® desktop operating for their MacBook® and iMac® lineup.",
-      "items": [],
-      "title": "Commercial UNIX"
-    },
-    {
-      "description": "\"Unix philosophy\" is a core set of computer science principles, first implemented in UNIX®, now codified in standards set forth by IEEE® and The Open Group®, and duplicated in dozens of UNIX®-like operating systems that emphasize building simple, short, clear, modular, and extensible software on a common set of programming standards and libraries that allow that software to be easily maintained and repurposed by developers other than its creators, across numerous operating systems and platforms. This enables the rapid spread and development of new and better software. It goes hand in hand with open source philosophy.",
-      "items": [],
-      "title": "\"Unix Philosophy\""
-    },
-    {
-      "description": "The term UNIX also debatedbly encompasses operating systems that are direct descendants of the original AT&T UNIX codebase but have since re-implemented the AT&T code with code under open source licenses. The most prominent of which the family of BSDs: FreeBSD, OpenBSD, and NetBSD, and their derivatives. These are not UNIX® certified, they are technically Unix-like, but share a unique direct link back to AT&T UNIX®, while newcomers like Redox OS do not.",
-      "items": [],
-      "title": "AT&T UNIX®-Derived Descendants, e.g FreeBSD®"
-    },
-    {
-      "description": "For a variety of historical and legal reasons, there has also been a massive explosion of Unix-like operating systems. MINIX®, for example, was created as a Unix-like teaching operating system by Prof. Andrew S. Tanenbaum. Linux® was created because Linus Torvalds, a college student, wanted to run a Unix-like operating system on his own hardware. Linux® has since gone on to become the most popular Unix-like operating system. Twenty years later, when Android, Inc.® needed a kernel for their new namesake mobile operating system they borrowed one from Linux. Unix-like operating systems implement some degree of the POSIX® standards and Unix philosophy but do not seek official UNIX® certification.",
-      "items": [],
-      "title": "Unix®-Like Operating Systems, e.g. Linux®"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "*NIXes"
-    },
-    {
-      "description": "As of 2023, there are no more UNIX®-certified Linux-based operating systems. The last two being K-UX® from Inspur and EulerOS® from Huawei.\nMany Linux-based operating systems include a UNIX® compatability add-on that pass OpenGroup UNIX® compatability suite tests, but the Linux vendors no longer obtain UNIX® certification.",
-      "items": [],
-      "title": "UNIX-Certified Linux-Based Operating Systems"
-    },
-    {
-      "description": "The Most Popular Unix-Like Operating System. These operating systems are not UNIX® certified by The Open Group.",
-      "items": [],
-      "title": "Linux"
-    },
-    {
-      "description": "These operating systems are not UNIX® certified by The Open Group.",
-      "items": [],
-      "title": "Other Unix®-Like Operating Systems"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -70,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1259258,
             "language": "C",
-            "last_commit": "2026-08-18T10:10:29Z",
+            "last_commit": "2026-08-19T09:50:39Z",
             "owner": "klange",
             "repo": "toaruos",
-            "stars": 6820
+            "stars": 6821
           }
         },
         {
@@ -84,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72385590,
             "language": "C",
             "last_commit": "2021-12-17T08:35:39Z",
             "owner": "minoca",
@@ -98,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3499610,
             "language": "C",
             "last_commit": "2022-02-24T18:27:53Z",
             "owner": "brho",
@@ -109,222 +52,236 @@
       "title": "More Unix-Like Operating Systems"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "The Art of Command Line",
+                  "description": "Master the command line, in one page.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 35955666,
+                    "language": null,
+                    "last_commit": "2024-06-25T18:13:44Z",
+                    "owner": "jlevy",
+                    "repo": "the-art-of-command-line",
+                    "stars": 162122
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Command Line Apps",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 45694629,
+                    "language": null,
+                    "last_commit": "2026-03-04T11:04:17Z",
+                    "owner": "herrbischoff",
+                    "repo": "awesome-command-line-apps",
+                    "stars": 4206
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Introductory UNIX® Skills"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome Rust",
+                  "description": "A curated list of Rust code and resources.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21938243,
+                    "language": "Rust",
+                    "last_commit": "2026-08-18T15:53:34Z",
+                    "owner": "rust-unofficial",
+                    "repo": "awesome-rust",
+                    "stars": 58896
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Swift",
+                  "description": "A collaborative list of awesome Swift libraries and resources.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21696302,
+                    "language": "Ruby",
+                    "last_commit": "2026-08-03T13:15:16Z",
+                    "owner": "matteocrippa",
+                    "repo": "awesome-swift",
+                    "stars": 26212
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Modern C++",
+                  "description": "A collection of resources on modern C++.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 55082941,
+                    "language": "HTML",
+                    "last_commit": "2024-08-20T19:26:37Z",
+                    "owner": "rigtorp",
+                    "repo": "awesome-modern-cpp",
+                    "stars": 13132
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Rust Learning",
+                  "description": "A bunch of links to blog posts, articles, videos, etc for learning Rust.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 35210243,
+                    "language": null,
+                    "last_commit": "2026-05-29T08:20:56Z",
+                    "owner": "ctjhoa",
+                    "repo": "rust-learning",
+                    "stars": 12232
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome C",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 36583681,
+                    "language": null,
+                    "last_commit": "2022-09-27T14:10:08Z",
+                    "owner": "inputsh",
+                    "repo": "awesome-c",
+                    "stars": 3858
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "C Language and Derivatives"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome Python",
+                  "description": "A curated list of awesome Python frameworks, libraries, software, and resources.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21289110,
+                    "language": "Python",
+                    "last_commit": "2026-08-16T13:31:43Z",
+                    "owner": "vinta",
+                    "repo": "awesome-python",
+                    "stars": 314822
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Awesomeness",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21600440,
+                    "language": "Ruby",
+                    "last_commit": "2024-06-02T22:46:41Z",
+                    "owner": "bayandin",
+                    "repo": "awesome-awesomeness",
+                    "stars": 33608
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Python Learning Resources",
+                  "description": "Resources for learning Python.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 36284507,
+                    "language": null,
+                    "last_commit": "2024-01-31T18:19:44Z",
+                    "owner": "CodementorIO",
+                    "repo": "Python-Learning-Resources",
+                    "stars": 1065
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Fortran",
+                  "description": "A curated list of Fortran libraries.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21888466,
+                    "language": null,
+                    "last_commit": "2026-07-02T15:12:44Z",
+                    "owner": "rabbiabram",
+                    "repo": "awesome-fortran",
+                    "stars": 415
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Programming",
+                  "description": "A curated list of awesome programming talks, articles, books, resources and more.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 37375432,
+                    "language": null,
+                    "last_commit": "2018-03-06T05:26:03Z",
+                    "owner": "hardikvasa",
+                    "repo": "awesome-programming",
+                    "stars": 231
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "learning-fortran",
+                  "description": "Repository created in order to learn basics of Fortran, with links to several tutorials.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 42412032,
+                    "language": "FORTRAN",
+                    "last_commit": "2022-08-24T08:16:09Z",
+                    "owner": "pwittchen",
+                    "repo": "learning-fortran",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other Programming Languages"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "More UNIX®"
+        }
+      ],
       "title": "Additional Resources"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "More UNIX®"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "The Art of Command Line",
-          "description": "Master the command line, in one page.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-06-25T18:13:44Z",
-            "owner": "jlevy",
-            "repo": "the-art-of-command-line",
-            "stars": 162118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Command Line Apps",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2026-03-04T11:04:17Z",
-            "owner": "herrbischoff",
-            "repo": "awesome-command-line-apps",
-            "stars": 4206
-          }
-        }
-      ],
-      "title": "Introductory UNIX® Skills"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Introductory Programming Skills"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Rust",
-          "description": "A curated list of Rust code and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T20:30:50Z",
-            "owner": "rust-unofficial",
-            "repo": "awesome-rust",
-            "stars": 58877
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Swift",
-          "description": "A collaborative list of awesome Swift libraries and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-03T13:15:16Z",
-            "owner": "matteocrippa",
-            "repo": "awesome-swift",
-            "stars": 26210
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Modern C++",
-          "description": "A collection of resources on modern C++.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-08-20T19:26:37Z",
-            "owner": "rigtorp",
-            "repo": "awesome-modern-cpp",
-            "stars": 13132
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rust Learning",
-          "description": "A bunch of links to blog posts, articles, videos, etc for learning Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-29T08:20:56Z",
-            "owner": "ctjhoa",
-            "repo": "rust-learning",
-            "stars": 12231
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome C",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2022-09-27T14:10:08Z",
-            "owner": "inputsh",
-            "repo": "awesome-c",
-            "stars": 3858
-          }
-        }
-      ],
-      "title": "C Language and Derivatives"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Python",
-          "description": "A curated list of awesome Python frameworks, libraries, software, and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T13:31:43Z",
-            "owner": "vinta",
-            "repo": "awesome-python",
-            "stars": 314596
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Awesomeness",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2024-06-02T22:46:41Z",
-            "owner": "bayandin",
-            "repo": "awesome-awesomeness",
-            "stars": 33611
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python Learning Resources",
-          "description": "Resources for learning Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-01-31T18:19:44Z",
-            "owner": "CodementorIO",
-            "repo": "Python-Learning-Resources",
-            "stars": 1065
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Fortran",
-          "description": "A curated list of Fortran libraries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-02T15:12:44Z",
-            "owner": "rabbiabram",
-            "repo": "awesome-fortran",
-            "stars": 415
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Programming",
-          "description": "A curated list of awesome programming talks, articles, books, resources and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2018-03-06T05:26:03Z",
-            "owner": "hardikvasa",
-            "repo": "awesome-programming",
-            "stars": 231
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "learning-fortran",
-          "description": "Repository created in order to learn basics of Fortran, with links to several tutorials.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "FORTRAN",
-            "last_commit": "2022-08-24T08:16:09Z",
-            "owner": "pwittchen",
-            "repo": "learning-fortran",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Other Programming Languages"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -333,11 +290,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63539055,
             "language": "Swift",
-            "last_commit": "2026-08-17T03:21:26Z",
+            "last_commit": "2026-08-19T05:26:55Z",
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 111341
+            "stars": 111411
           }
         },
         {
@@ -347,11 +305,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 42956467,
             "language": null,
             "last_commit": "2026-03-04T11:01:49Z",
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30835
+            "stars": 30840
           }
         },
         {
@@ -361,18 +320,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1175493743,
             "language": "Swift",
-            "last_commit": "2026-08-09T19:31:46Z",
+            "last_commit": "2026-08-18T14:06:40Z",
             "owner": "us",
             "repo": "mocker",
-            "stars": 328
+            "stars": 329
           }
         }
       ],
       "title": "More macOS®"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -381,6 +341,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65755474,
             "language": null,
             "last_commit": "2025-05-05T08:44:07Z",
             "owner": "ligurio",
@@ -395,6 +356,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33993568,
             "language": null,
             "last_commit": "2026-04-02T14:50:04Z",
             "owner": "DiscoverBSD",
@@ -409,6 +371,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74509431,
             "language": "Shell",
             "last_commit": "2022-06-12T13:38:13Z",
             "owner": "FabioLolix",
@@ -420,7 +383,7 @@
       "title": "More BSD"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -429,11 +392,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 65083316,
             "language": "HTML",
             "last_commit": "2026-05-03T08:15:18Z",
             "owner": "luong-komorebi",
             "repo": "Awesome-Linux-Software",
-            "stars": 25565
+            "stars": 25572
           }
         },
         {
@@ -443,6 +407,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 37814279,
             "language": null,
             "last_commit": "2023-02-04T17:02:53Z",
             "owner": "inputsh",
@@ -457,6 +422,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55746413,
             "language": "Shell",
             "last_commit": "2025-12-09T22:54:44Z",
             "owner": "FabioLolix",
@@ -469,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:49:30.377Z",
+    "last_updated": "2026-08-19T10:48:45.220Z",
     "original_repository": "sirredbeard/awesome-unix",
     "original_repository_sha": "c8d0bb5c7eca2a0d140f71c09f84d4e90264df0a",
     "enhanced_repository": "enhansome/enhansome-unix",
