@@ -230,7 +230,7 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 
 ## More Unix-Like Operating Systems
 
-* [ToaruOS](https://github.com/klange/toaruos) ⭐ 6,821 | 🐛 70 | 🌐 C | 📅 2026-08-19 - ToaruOS is a hobbyist, educational, Unix-like operating system built entirely from scratch. It includes a kernel, bootloader, dynamic linker, C standard library, composited windowing system, and several utilities and applications .
+* [ToaruOS](https://github.com/klange/toaruos) ⭐ 6,822 | 🐛 70 | 🌐 C | 📅 2026-08-19 - ToaruOS is a hobbyist, educational, Unix-like operating system built entirely from scratch. It includes a kernel, bootloader, dynamic linker, C standard library, composited windowing system, and several utilities and applications .
 * [Minoca OS](https://github.com/minoca/os) ⭐ 2,790 | 🐛 23 | 🌐 C | 📅 2021-12-17 - Minoca OS is a general purpose operating system written from scratch. It aims to be lean, maintainable, modular, and compatible with existing software.
 * [Akaros](https://github.com/brho/akaros) ⭐ 326 | 🐛 12 | 🌐 C | 📅 2022-02-24 - Akaros is an open source, GPL-licensed operating system for manycore architectures. The goal is to provide support for parallel and high-performance applications and to scale to a large number of cores .
 * [Minix®](http://www.minix3.org) - Minix® is a POSIX®-compliant Unix-like computer operating system based on a microkernel architecture. In 2017 it was learned that Intel™ used a version of MINIX on many of its x86-series processors, perhaps making it the most popular Unix-like operating system .
@@ -300,7 +300,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 #### Introductory UNIX® Skills
 
-* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,122 | 🐛 256 | 📅 2024-06-25 - Master the command line, in one page.
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,124 | 🐛 256 | 📅 2024-06-25 - Master the command line, in one page.
 * [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps) ⚠️ Archived
 * [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix.
 
@@ -317,8 +317,8 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 #### Other Programming Languages
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 314,822 | 🐛 18 | 🌐 Python | 📅 2026-08-16 - A curated list of awesome Python frameworks, libraries, software, and resources.
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,608 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 314,858 | 🐛 18 | 🌐 Python | 📅 2026-08-16 - A curated list of awesome Python frameworks, libraries, software, and resources.
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
 * [Python Learning Resources](https://github.com/CodementorIO/Python-Learning-Resources) ⭐ 1,065 | 🐛 6 | 📅 2024-01-31 - Resources for learning Python.
 * [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran) ⭐ 415 | 🐛 2 | 📅 2026-07-02 - A curated list of Fortran libraries.
 * [Awesome Programming](https://github.com/hardikvasa/awesome-programming) ⭐ 231 | 🐛 3 | 📅 2018-03-06 - A curated list of awesome programming talks, articles, books, resources and more.
@@ -412,7 +412,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ## More macOS®
 
-* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 111,411 | 🐛 688 | 🌐 Swift | 📅 2026-08-19
+* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 111,417 | 🐛 688 | 🌐 Swift | 📅 2026-08-19
 * [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) ⚠️ Archived
 * [Mocker](https://github.com/us/mocker) ⭐ 329 | 🐛 2 | 🌐 Swift | 📅 2026-08-18 - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. Open source (AGPL-3.0), Swift.
 * [macOS for UNIX Users](http://images.apple.com/media/us/osx/2012/docs/OSX_for_UNIX_Users_TB_July2011.pdf) - Apple Technical Brief, July 2011.

@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1259258,
             "language": "C",
-            "last_commit": "2026-08-19T09:50:39Z",
+            "last_commit": "2026-08-19T12:14:19Z",
             "owner": "klange",
             "repo": "toaruos",
-            "stars": 6821
+            "stars": 6822
           }
         },
         {
@@ -70,7 +70,7 @@
                     "last_commit": "2024-06-25T18:13:44Z",
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162122
+                    "stars": 162124
                   }
                 },
                 {
@@ -189,7 +189,7 @@
                     "last_commit": "2026-08-16T13:31:43Z",
                     "owner": "vinta",
                     "repo": "awesome-python",
-                    "stars": 314822
+                    "stars": 314858
                   }
                 },
                 {
@@ -204,7 +204,7 @@
                     "last_commit": "2024-06-02T22:46:41Z",
                     "owner": "bayandin",
                     "repo": "awesome-awesomeness",
-                    "stars": 33608
+                    "stars": 33609
                   }
                 },
                 {
@@ -295,7 +295,7 @@
             "last_commit": "2026-08-19T05:26:55Z",
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 111411
+            "stars": 111417
           }
         },
         {
@@ -435,8 +435,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:48:45.220Z",
+    "last_updated": "2026-08-19T12:55:13.837Z",
     "original_repository": "sirredbeard/awesome-unix",
+    "original_repository_id": 111368115,
     "original_repository_sha": "c8d0bb5c7eca2a0d140f71c09f84d4e90264df0a",
     "enhanced_repository": "enhansome/enhansome-unix",
     "enhanced_repository_description": null,
