@@ -70,7 +70,7 @@
                     "last_commit": "2024-06-25T18:13:44Z",
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162164
+                    "stars": 162157
                   }
                 },
                 {
@@ -107,7 +107,7 @@
                     "last_commit": "2026-08-24T07:28:27Z",
                     "owner": "rust-unofficial",
                     "repo": "awesome-rust",
-                    "stars": 58955
+                    "stars": 58956
                   }
                 },
                 {
@@ -189,7 +189,7 @@
                     "last_commit": "2026-08-24T06:42:58Z",
                     "owner": "vinta",
                     "repo": "awesome-python",
-                    "stars": 315766
+                    "stars": 315800
                   }
                 },
                 {
@@ -204,7 +204,7 @@
                     "last_commit": "2024-06-02T22:46:41Z",
                     "owner": "bayandin",
                     "repo": "awesome-awesomeness",
-                    "stars": 33621
+                    "stars": 33620
                   }
                 },
                 {
@@ -276,6 +276,50 @@
           "description": null,
           "node_type": "group",
           "title": "More UNIX®"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Unix History Repository",
+              "description": "The source code of the original UNIX through its various versions implemented in git.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21994526,
+                "language": "Assembly",
+                "last_commit": "2026-01-05T16:53:18Z",
+                "owner": "dspinellis",
+                "repo": "unix-history-repo",
+                "stars": 7249
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "UNIX® Code/Emulation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Sysadmin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16677706,
+                "language": null,
+                "last_commit": "2024-03-26T23:45:17Z",
+                "owner": "kahun",
+                "repo": "awesome-sysadmin",
+                "stars": 24351
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community"
         }
       ],
       "title": "Additional Resources"
@@ -295,7 +339,7 @@
             "last_commit": "2026-08-21T08:08:53Z",
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 111700
+            "stars": 111706
           }
         },
         {
@@ -310,7 +354,7 @@
             "last_commit": "2026-03-04T11:01:49Z",
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30851
+            "stars": 30852
           }
         },
         {
@@ -322,7 +366,7 @@
             "archived": false,
             "id": 1175493743,
             "language": "Swift",
-            "last_commit": "2026-08-18T14:06:40Z",
+            "last_commit": "2026-08-24T11:57:47Z",
             "owner": "us",
             "repo": "mocker",
             "stars": 333
@@ -435,7 +479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:56:09.231Z",
+    "last_updated": "2026-08-24T14:09:46.062Z",
     "original_repository": "sirredbeard/awesome-unix",
     "original_repository_id": 111368115,
     "original_repository_sha": "c8d0bb5c7eca2a0d140f71c09f84d4e90264df0a",
