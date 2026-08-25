@@ -300,7 +300,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 #### Introductory UNIX® Skills
 
-* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,162 | 🐛 258 | 📅 2024-06-25 - Master the command line, in one page.
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,164 | 🐛 258 | 📅 2024-06-25 - Master the command line, in one page.
 * [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps) ⚠️ Archived
 * [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix.
 
@@ -308,7 +308,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 #### C Language and Derivatives
 
-* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 58,963 | 🐛 7 | 🌐 Rust | 📅 2026-08-24 - A curated list of Rust code and resources.
+* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 58,967 | 🐛 7 | 🌐 Rust | 📅 2026-08-24 - A curated list of Rust code and resources.
 * [Awesome Swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,223 | 🐛 11 | 🌐 Ruby | 📅 2026-08-03 - A collaborative list of awesome Swift libraries and resources.
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,133 | 🐛 20 | 🌐 HTML | 📅 2024-08-20 - A collection of resources on modern C++.
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) ⭐ 12,233 | 🐛 10 | 📅 2026-05-29 - A bunch of links to blog posts, articles, videos, etc for learning Rust.
@@ -317,8 +317,8 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 #### Other Programming Languages
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 315,915 | 🐛 15 | 🌐 Python | 📅 2026-08-25 - A curated list of awesome Python frameworks, libraries, software, and resources.
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,625 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 315,954 | 🐛 15 | 🌐 Python | 📅 2026-08-25 - A curated list of awesome Python frameworks, libraries, software, and resources.
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,624 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
 * [Python Learning Resources](https://github.com/CodementorIO/Python-Learning-Resources) ⭐ 1,065 | 🐛 6 | 📅 2024-01-31 - Resources for learning Python.
 * [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran) ⭐ 415 | 🐛 2 | 📅 2026-07-02 - A curated list of Fortran libraries.
 * [Awesome Programming](https://github.com/hardikvasa/awesome-programming) ⭐ 231 | 🐛 3 | 📅 2018-03-06 - A curated list of awesome programming talks, articles, books, resources and more.
@@ -412,7 +412,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ## More macOS®
 
-* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 111,744 | 🐛 725 | 🌐 Swift | 📅 2026-08-25
+* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 111,751 | 🐛 727 | 🌐 Swift | 📅 2026-08-25
 * [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) ⚠️ Archived
 * [Mocker](https://github.com/us/mocker) ⭐ 334 | 🐛 4 | 🌐 Swift | 📅 2026-08-24 - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. Open source (AGPL-3.0), Swift.
 * [macOS for UNIX Users](http://images.apple.com/media/us/osx/2012/docs/OSX_for_UNIX_Users_TB_July2011.pdf) - Apple Technical Brief, July 2011.
