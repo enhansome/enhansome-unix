@@ -12,11 +12,12 @@
             "archived": false,
             "id": 1259258,
             "language": "C",
-            "last_commit": "2026-08-27T11:43:36Z",
+            "last_commit": "2026-08-27T23:30:08Z",
             "owner": "klange",
             "repo": "toaruos",
-            "stars": 6831
-          }
+            "stars": 6832
+          },
+          "first_seen": "2026-08-28T21:11:29.606Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "minoca",
             "repo": "os",
             "stars": 2791
-          }
+          },
+          "first_seen": "2026-08-28T21:11:29.606Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "brho",
             "repo": "akaros",
             "stars": 326
-          }
+          },
+          "first_seen": "2026-08-28T21:11:29.606Z"
         }
       ],
       "title": "More Unix-Like Operating Systems"
@@ -70,8 +73,9 @@
                     "last_commit": "2024-06-25T18:13:44Z",
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162179
-                  }
+                    "stars": 162176
+                  },
+                  "first_seen": "2026-08-28T21:11:29.606Z"
                 },
                 {
                   "node_type": "item",
@@ -86,7 +90,8 @@
                     "owner": "herrbischoff",
                     "repo": "awesome-command-line-apps",
                     "stars": 4211
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:11:29.606Z"
                 }
               ],
               "description": null,
@@ -104,11 +109,12 @@
                     "archived": false,
                     "id": 21938243,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T18:15:02Z",
+                    "last_commit": "2026-08-28T11:12:13Z",
                     "owner": "rust-unofficial",
                     "repo": "awesome-rust",
-                    "stars": 59003
-                  }
+                    "stars": 59028
+                  },
+                  "first_seen": "2026-08-28T21:11:29.606Z"
                 },
                 {
                   "node_type": "item",
@@ -122,8 +128,9 @@
                     "last_commit": "2026-08-03T13:15:16Z",
                     "owner": "matteocrippa",
                     "repo": "awesome-swift",
-                    "stars": 26227
-                  }
+                    "stars": 26232
+                  },
+                  "first_seen": "2026-08-28T21:11:29.606Z"
                 },
                 {
                   "node_type": "item",
@@ -137,8 +144,9 @@
                     "last_commit": "2024-08-20T19:26:37Z",
                     "owner": "rigtorp",
                     "repo": "awesome-modern-cpp",
-                    "stars": 13135
-                  }
+                    "stars": 13137
+                  },
+                  "first_seen": "2026-08-28T21:11:29.606Z"
                 },
                 {
                   "node_type": "item",
@@ -152,8 +160,9 @@
                     "last_commit": "2026-05-29T08:20:56Z",
                     "owner": "ctjhoa",
                     "repo": "rust-learning",
-                    "stars": 12232
-                  }
+                    "stars": 12233
+                  },
+                  "first_seen": "2026-08-28T21:11:29.606Z"
                 },
                 {
                   "node_type": "item",
@@ -168,7 +177,8 @@
                     "owner": "inputsh",
                     "repo": "awesome-c",
                     "stars": 3860
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:11:29.606Z"
                 }
               ],
               "description": null,
@@ -189,8 +199,9 @@
                     "last_commit": "2026-08-25T04:08:40Z",
                     "owner": "vinta",
                     "repo": "awesome-python",
-                    "stars": 316477
-                  }
+                    "stars": 316751
+                  },
+                  "first_seen": "2026-08-28T21:11:29.606Z"
                 },
                 {
                   "node_type": "item",
@@ -204,8 +215,9 @@
                     "last_commit": "2024-06-02T22:46:41Z",
                     "owner": "bayandin",
                     "repo": "awesome-awesomeness",
-                    "stars": 33631
-                  }
+                    "stars": 33634
+                  },
+                  "first_seen": "2026-08-28T21:11:29.606Z"
                 },
                 {
                   "node_type": "item",
@@ -220,7 +232,8 @@
                     "owner": "CodementorIO",
                     "repo": "Python-Learning-Resources",
                     "stars": 1065
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:11:29.606Z"
                 },
                 {
                   "node_type": "item",
@@ -235,7 +248,8 @@
                     "owner": "rabbiabram",
                     "repo": "awesome-fortran",
                     "stars": 415
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:11:29.606Z"
                 },
                 {
                   "node_type": "item",
@@ -250,7 +264,8 @@
                     "owner": "hardikvasa",
                     "repo": "awesome-programming",
                     "stars": 231
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:11:29.606Z"
                 },
                 {
                   "node_type": "item",
@@ -265,7 +280,8 @@
                     "owner": "pwittchen",
                     "repo": "learning-fortran",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:11:29.606Z"
                 }
               ],
               "description": null,
@@ -292,7 +308,8 @@
                 "owner": "dspinellis",
                 "repo": "unix-history-repo",
                 "stars": 7251
-              }
+              },
+              "first_seen": "2026-08-28T21:11:29.606Z"
             }
           ],
           "description": null,
@@ -314,7 +331,8 @@
                 "owner": "kahun",
                 "repo": "awesome-sysadmin",
                 "stars": 24351
-              }
+              },
+              "first_seen": "2026-08-28T21:11:29.606Z"
             }
           ],
           "description": null,
@@ -336,11 +354,12 @@
             "archived": false,
             "id": 63539055,
             "language": "Swift",
-            "last_commit": "2026-08-26T13:37:37Z",
+            "last_commit": "2026-08-28T15:18:56Z",
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 111907
-          }
+            "stars": 112017
+          },
+          "first_seen": "2026-08-28T21:11:29.606Z"
         },
         {
           "node_type": "item",
@@ -354,8 +373,9 @@
             "last_commit": "2026-03-04T11:01:49Z",
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30855
-          }
+            "stars": 30856
+          },
+          "first_seen": "2026-08-28T21:11:29.606Z"
         },
         {
           "node_type": "item",
@@ -369,8 +389,9 @@
             "last_commit": "2026-08-25T12:51:13Z",
             "owner": "us",
             "repo": "mocker",
-            "stars": 336
-          }
+            "stars": 337
+          },
+          "first_seen": "2026-08-28T21:11:29.606Z"
         }
       ],
       "title": "More macOS®"
@@ -391,7 +412,8 @@
             "owner": "ligurio",
             "repo": "awesome-openbsd",
             "stars": 488
-          }
+          },
+          "first_seen": "2026-08-28T21:11:29.606Z"
         },
         {
           "node_type": "item",
@@ -406,7 +428,8 @@
             "owner": "DiscoverBSD",
             "repo": "awesome-bsd",
             "stars": 429
-          }
+          },
+          "first_seen": "2026-08-28T21:11:29.606Z"
         },
         {
           "node_type": "item",
@@ -421,7 +444,8 @@
             "owner": "FabioLolix",
             "repo": "BSD-Timeline",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T21:11:29.606Z"
         }
       ],
       "title": "More BSD"
@@ -441,8 +465,9 @@
             "last_commit": "2026-05-03T08:15:18Z",
             "owner": "luong-komorebi",
             "repo": "Awesome-Linux-Software",
-            "stars": 25580
-          }
+            "stars": 25581
+          },
+          "first_seen": "2026-08-28T21:11:29.606Z"
         },
         {
           "node_type": "item",
@@ -456,8 +481,9 @@
             "last_commit": "2023-02-04T17:02:53Z",
             "owner": "inputsh",
             "repo": "awesome-linux",
-            "stars": 5126
-          }
+            "stars": 5127
+          },
+          "first_seen": "2026-08-28T21:11:29.606Z"
         },
         {
           "node_type": "item",
@@ -472,14 +498,15 @@
             "owner": "FabioLolix",
             "repo": "LinuxTimeline",
             "stars": 2198
-          }
+          },
+          "first_seen": "2026-08-28T21:11:29.606Z"
         }
       ],
       "title": "More Linux®"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:34:03.951Z",
+    "last_updated": "2026-08-28T21:11:29.606Z",
     "original_repository_info": {
       "archived": false,
       "id": 111368115,
@@ -487,7 +514,7 @@
       "last_commit": "2026-07-29T20:00:04Z",
       "owner": "sirredbeard",
       "repo": "awesome-unix",
-      "stars": 1771
+      "stars": 1772
     },
     "original_repository_sha": "c8d0bb5c7eca2a0d140f71c09f84d4e90264df0a",
     "enhanced_repository": "enhansome/enhansome-unix",
