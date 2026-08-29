@@ -10,12 +10,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Complete, independent operating system built by humans.",
+            "homepage": "https://toaruos.org/",
             "id": 1259258,
             "language": "C",
+            "license": "NCSA",
             "last_commit": "2026-08-27T23:30:08Z",
+            "open_issues": 65,
             "owner": "klange",
             "repo": "toaruos",
-            "stars": 6832
+            "stars": 6832,
+            "topics": [
+              "aarch64",
+              "armv8",
+              "baremetal",
+              "bootloader",
+              "c",
+              "c-library",
+              "cdrom",
+              "compositor",
+              "kernel",
+              "operating-system",
+              "operating-systems",
+              "os",
+              "osdev",
+              "smp",
+              "text-editor",
+              "toaruos",
+              "window-manager",
+              "x86",
+              "x86-64"
+            ]
           },
           "first_seen": "2026-08-28T21:11:29.606Z"
         },
@@ -26,12 +51,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minoca operating system",
+            "homepage": null,
             "id": 72385590,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2021-12-17T08:35:39Z",
+            "open_issues": 23,
             "owner": "minoca",
             "repo": "os",
-            "stars": 2791
+            "stars": 2791,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:29.606Z"
         },
@@ -42,12 +72,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Akaros Operating System",
+            "homepage": "http://akaros.cs.berkeley.edu/",
             "id": 3499610,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2022-02-24T18:27:53Z",
+            "open_issues": 12,
             "owner": "brho",
             "repo": "akaros",
-            "stars": 326
+            "stars": 326,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:29.606Z"
         }
@@ -68,12 +103,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Master the command line, in one page",
+                    "homepage": null,
                     "id": 35955666,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-06-25T18:13:44Z",
+                    "open_issues": 257,
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162176
+                    "stars": 162179,
+                    "topics": [
+                      "bash",
+                      "documentation",
+                      "linux",
+                      "macos",
+                      "unix",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
                 },
@@ -84,12 +131,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": ":shell: Use your terminal shell to do awesome things.",
+                    "homepage": null,
                     "id": 45694629,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-03-04T11:04:17Z",
+                    "open_issues": 0,
                     "owner": "herrbischoff",
                     "repo": "awesome-command-line-apps",
-                    "stars": 4211
+                    "stars": 4211,
+                    "topics": [
+                      "apps",
+                      "awesome",
+                      "awesome-list",
+                      "list",
+                      "shell",
+                      "software",
+                      "unix"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
                 }
@@ -107,12 +167,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of Rust code and resources.",
+                    "homepage": null,
                     "id": 21938243,
                     "language": "Rust",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-28T11:12:13Z",
+                    "open_issues": 8,
                     "owner": "rust-unofficial",
                     "repo": "awesome-rust",
-                    "stars": 59028
+                    "stars": 59031,
+                    "topics": [
+                      "awesome",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
                 },
@@ -123,12 +191,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!",
+                    "homepage": null,
                     "id": 21696302,
                     "language": "Ruby",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-03T13:15:16Z",
+                    "open_issues": 11,
                     "owner": "matteocrippa",
                     "repo": "awesome-swift",
-                    "stars": 26232
+                    "stars": 26232,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "awesome-lists",
+                      "awesome-swift",
+                      "ios",
+                      "linux",
+                      "list",
+                      "lists",
+                      "swift",
+                      "swift-extensions",
+                      "swift-framework",
+                      "swift-language",
+                      "swift-library"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
                 },
@@ -139,12 +226,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of resources on modern C++",
+                    "homepage": "http://awesomecpp.com",
                     "id": 55082941,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2024-08-20T19:26:37Z",
+                    "open_issues": 20,
                     "owner": "rigtorp",
                     "repo": "awesome-modern-cpp",
-                    "stars": 13137
+                    "stars": 13137,
+                    "topics": [
+                      "cpp",
+                      "cpp11",
+                      "cpp14",
+                      "cpp17",
+                      "cpp1z",
+                      "cpp20"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
                 },
@@ -155,12 +254,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A bunch of links to blog posts, articles, videos, etc for learning Rust",
+                    "homepage": null,
                     "id": 35210243,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-05-29T08:20:56Z",
+                    "open_issues": 10,
                     "owner": "ctjhoa",
                     "repo": "rust-learning",
-                    "stars": 12233
+                    "stars": 12233,
+                    "topics": [
+                      "blog-article",
+                      "book",
+                      "hacktoberfest",
+                      "learn",
+                      "rust",
+                      "teaching",
+                      "tutorial",
+                      "video"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
                 },
@@ -171,12 +284,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Continuing the development of awesome-c list on GitHub",
+                    "homepage": null,
                     "id": 36583681,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2022-09-27T14:10:08Z",
+                    "open_issues": 18,
                     "owner": "inputsh",
                     "repo": "awesome-c",
-                    "stars": 3860
+                    "stars": 3860,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "c",
+                      "list"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
                 }
@@ -194,12 +317,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+                    "homepage": "https://awesome-python.com/",
                     "id": 21289110,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T04:08:40Z",
+                    "open_issues": 19,
                     "owner": "vinta",
                     "repo": "awesome-python",
-                    "stars": 316751
+                    "stars": 316806,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "python",
+                      "python-frameworks",
+                      "python-libraries",
+                      "python-tools"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
                 },
@@ -210,12 +345,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of awesome awesomeness",
+                    "homepage": null,
                     "id": 21600440,
                     "language": "Ruby",
+                    "license": null,
                     "last_commit": "2024-06-02T22:46:41Z",
+                    "open_issues": 61,
                     "owner": "bayandin",
                     "repo": "awesome-awesomeness",
-                    "stars": 33634
+                    "stars": 33634,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
                 },
@@ -226,12 +366,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 36284507,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-01-31T18:19:44Z",
+                    "open_issues": 6,
                     "owner": "CodementorIO",
                     "repo": "Python-Learning-Resources",
-                    "stars": 1065
+                    "stars": 1065,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
                 },
@@ -242,12 +387,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Awesome list of Fortran libs",
+                    "homepage": null,
                     "id": 21888466,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-07-02T15:12:44Z",
+                    "open_issues": 2,
                     "owner": "rabbiabram",
                     "repo": "awesome-fortran",
-                    "stars": 415
+                    "stars": 415,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
                 },
@@ -258,12 +408,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of awesome programming talks, articles, books, resources and more!!",
+                    "homepage": null,
                     "id": 37375432,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2018-03-06T05:26:03Z",
+                    "open_issues": 3,
                     "owner": "hardikvasa",
                     "repo": "awesome-programming",
-                    "stars": 231
+                    "stars": 231,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
                 },
@@ -274,12 +429,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository created in order to learn basics of Fortran - yet another oldschool language",
+                    "homepage": null,
                     "id": 42412032,
                     "language": "FORTRAN",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-08-24T08:16:09Z",
+                    "open_issues": 0,
                     "owner": "pwittchen",
                     "repo": "learning-fortran",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
                 }
@@ -302,12 +462,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Continuous Unix commit history from 1970 until today",
+                "homepage": null,
                 "id": 21994526,
                 "language": "Assembly",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-05T16:53:18Z",
+                "open_issues": 0,
                 "owner": "dspinellis",
                 "repo": "unix-history-repo",
-                "stars": 7251
+                "stars": 7251,
+                "topics": [
+                  "bell-labs",
+                  "berkeley",
+                  "evolution",
+                  "freebsd",
+                  "history",
+                  "snapshot",
+                  "unix"
+                ]
               },
               "first_seen": "2026-08-28T21:11:29.606Z"
             }
@@ -325,12 +498,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.",
+                "homepage": null,
                 "id": 16677706,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-26T23:45:17Z",
+                "open_issues": 270,
                 "owner": "kahun",
                 "repo": "awesome-sysadmin",
-                "stars": 24351
+                "stars": 24350,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:29.606Z"
             }
@@ -352,12 +530,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+            "homepage": "https://git.io/macx",
             "id": 63539055,
             "language": "Swift",
-            "last_commit": "2026-08-28T15:18:56Z",
+            "license": "CC0-1.0",
+            "last_commit": "2026-08-29T01:11:07Z",
+            "open_issues": 756,
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 112017
+            "stars": 112039,
+            "topics": [
+              "app",
+              "apple",
+              "application",
+              "apps",
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "awesome-mac",
+              "desktop-app",
+              "desktop-application",
+              "desktop-apps",
+              "list",
+              "mac",
+              "mac-osx",
+              "macos",
+              "macos-app",
+              "macos-apps",
+              "macosx",
+              "software"
+            ]
           },
           "first_seen": "2026-08-28T21:11:29.606Z"
         },
@@ -368,12 +571,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Use your macOS terminal shell to do awesome things.",
+            "homepage": null,
             "id": 42956467,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-04T11:01:49Z",
+            "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30856
+            "stars": 30856,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "macos",
+              "macosx",
+              "shell",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T21:11:29.606Z"
         },
@@ -384,12 +600,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker-compatible container CLI built on Apple's Containerization framework. Same commands, same flags — mocker run, ps, stop, build, compose, stats — all working on macOS 26.",
+            "homepage": null,
             "id": 1175493743,
             "language": "Swift",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-25T12:51:13Z",
+            "open_issues": 4,
             "owner": "us",
             "repo": "mocker",
-            "stars": 337
+            "stars": 338,
+            "topics": [
+              "apple-containerization",
+              "cli",
+              "compose",
+              "containerization",
+              "containers",
+              "docker",
+              "macos",
+              "macos26",
+              "swift",
+              "swift-package-manager"
+            ]
           },
           "first_seen": "2026-08-28T21:11:29.606Z"
         }
@@ -406,12 +638,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The curated list of awesome OpenBSD resources",
+            "homepage": "https://bsd.network/@openbsdnow",
             "id": 65755474,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-05T08:44:07Z",
+            "open_issues": 0,
             "owner": "ligurio",
             "repo": "awesome-openbsd",
-            "stars": 488
+            "stars": 488,
+            "topics": [
+              "hosting",
+              "jobs",
+              "news",
+              "openbsd",
+              "openbsd-ports",
+              "openbsd-resources",
+              "openbsd-stats"
+            ]
           },
           "first_seen": "2026-08-28T21:11:29.606Z"
         },
@@ -422,12 +667,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome BSD related stuff",
+            "homepage": null,
             "id": 33993568,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-02T14:50:04Z",
+            "open_issues": 2,
             "owner": "DiscoverBSD",
             "repo": "awesome-bsd",
-            "stars": 429
+            "stars": 429,
+            "topics": [
+              "awesome",
+              "bsd",
+              "bsd-news",
+              "bsd-router",
+              "freebsd",
+              "netbsd",
+              "openbsd",
+              "opnsense",
+              "pc-bsd",
+              "pfsense"
+            ]
           },
           "first_seen": "2026-08-28T21:11:29.606Z"
         },
@@ -438,12 +699,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BSD Distributions Timeline",
+            "homepage": "https://distroware.gitlab.io/",
             "id": 74509431,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-12T13:38:13Z",
+            "open_issues": 6,
             "owner": "FabioLolix",
             "repo": "BSD-Timeline",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "bsd",
+              "bsd-timeline",
+              "distribution-timeline",
+              "svg",
+              "unix"
+            ]
           },
           "first_seen": "2026-08-28T21:11:29.606Z"
         }
@@ -460,12 +732,36 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🐧 A list of awesome Linux softwares ",
+            "homepage": "https://luong-komorebi.github.io/Awesome-Linux-Software/",
             "id": 65083316,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-05-03T08:15:18Z",
+            "open_issues": 0,
             "owner": "luong-komorebi",
             "repo": "Awesome-Linux-Software",
-            "stars": 25581
+            "stars": 25582,
+            "topics": [
+              "applications",
+              "awesome-list",
+              "cli-app",
+              "cross-platform",
+              "desktop-environment",
+              "free",
+              "freeware-icon",
+              "gui-app",
+              "icon-theme",
+              "linux",
+              "linux-app",
+              "linux-desktop",
+              "linux-resource",
+              "open-source",
+              "oss-icon",
+              "software",
+              "tools",
+              "ubuntu-linux"
+            ]
           },
           "first_seen": "2026-08-28T21:11:29.606Z"
         },
@@ -476,12 +772,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:",
+            "homepage": null,
             "id": 37814279,
             "language": null,
+            "license": "WTFPL",
             "last_commit": "2023-02-04T17:02:53Z",
+            "open_issues": 33,
             "owner": "inputsh",
             "repo": "awesome-linux",
-            "stars": 5127
+            "stars": 5127,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "desktop-environment",
+              "linux",
+              "linux-distribution",
+              "list",
+              "x-window-manager"
+            ]
           },
           "first_seen": "2026-08-28T21:11:29.606Z"
         },
@@ -492,12 +801,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux Distributions Timeline",
+            "homepage": "https://distroware.gitlab.io/",
             "id": 55746413,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-09T22:54:44Z",
+            "open_issues": 60,
             "owner": "FabioLolix",
             "repo": "LinuxTimeline",
-            "stars": 2198
+            "stars": 2198,
+            "topics": [
+              "linux",
+              "linux-distributions-timeline",
+              "linux-timeline",
+              "svg",
+              "timeline"
+            ]
           },
           "first_seen": "2026-08-28T21:11:29.606Z"
         }
@@ -506,15 +826,40 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:11:29.606Z",
+    "last_updated": "2026-08-29T04:36:09.447Z",
     "original_repository_info": {
       "archived": false,
+      "description": "All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.",
+      "homepage": null,
       "id": 111368115,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-07-29T20:00:04Z",
+      "open_issues": 3,
       "owner": "sirredbeard",
       "repo": "awesome-unix",
-      "stars": 1772
+      "stars": 1773,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bsd",
+        "devuan",
+        "freebsd",
+        "illumos",
+        "kernel",
+        "linux",
+        "linux-distribution",
+        "macos",
+        "minix",
+        "netbsd",
+        "openbsd",
+        "plan9",
+        "posix",
+        "slackware",
+        "solaris",
+        "unix",
+        "unix-philosophy"
+      ]
     },
     "original_repository_sha": "c8d0bb5c7eca2a0d140f71c09f84d4e90264df0a",
     "enhanced_repository": "enhansome/enhansome-unix",
