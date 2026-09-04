@@ -230,7 +230,7 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 
 ## More Unix-Like Operating Systems
 
-* [ToaruOS](https://github.com/klange/toaruos) ⭐ 6,830 | 🐛 65 | 🌐 C | 📅 2026-09-03 - ToaruOS is a hobbyist, educational, Unix-like operating system built entirely from scratch. It includes a kernel, bootloader, dynamic linker, C standard library, composited windowing system, and several utilities and applications .
+* [ToaruOS](https://github.com/klange/toaruos) ⭐ 6,830 | 🐛 65 | 🌐 C | 📅 2026-09-04 - ToaruOS is a hobbyist, educational, Unix-like operating system built entirely from scratch. It includes a kernel, bootloader, dynamic linker, C standard library, composited windowing system, and several utilities and applications .
 * [Minoca OS](https://github.com/minoca/os) ⭐ 2,794 | 🐛 23 | 🌐 C | 📅 2021-12-17 - Minoca OS is a general purpose operating system written from scratch. It aims to be lean, maintainable, modular, and compatible with existing software.
 * [Akaros](https://github.com/brho/akaros) ⭐ 326 | 🐛 12 | 🌐 C | 📅 2022-02-24 - Akaros is an open source, GPL-licensed operating system for manycore architectures. The goal is to provide support for parallel and high-performance applications and to scale to a large number of cores .
 * [Minix®](http://www.minix3.org) - Minix® is a POSIX®-compliant Unix-like computer operating system based on a microkernel architecture. In 2017 it was learned that Intel™ used a version of MINIX on many of its x86-series processors, perhaps making it the most popular Unix-like operating system .
@@ -300,7 +300,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 #### Introductory UNIX® Skills
 
-* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,219 | 🐛 257 | 📅 2024-06-25 - Master the command line, in one page.
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,238 | 🐛 257 | 📅 2024-06-25 - Master the command line, in one page.
 * [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps) ⚠️ Archived
 * [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix.
 
@@ -308,17 +308,17 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 #### C Language and Derivatives
 
-* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,151 | 🐛 8 | 🌐 Rust | 📅 2026-09-03 - A curated list of Rust code and resources.
-* [Awesome Swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,238 | 🐛 12 | 🌐 Ruby | 📅 2026-09-01 - A collaborative list of awesome Swift libraries and resources.
-* [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,144 | 🐛 20 | 🌐 HTML | 📅 2024-08-20 - A collection of resources on modern C++.
-* [Rust Learning](https://github.com/ctjhoa/rust-learning) ⭐ 12,239 | 🐛 10 | 📅 2026-05-29 - A bunch of links to blog posts, articles, videos, etc for learning Rust.
+* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,180 | 🐛 9 | 🌐 Rust | 📅 2026-09-03 - A curated list of Rust code and resources.
+* [Awesome Swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,240 | 🐛 12 | 🌐 Ruby | 📅 2026-09-01 - A collaborative list of awesome Swift libraries and resources.
+* [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,147 | 🐛 20 | 🌐 HTML | 📅 2024-08-20 - A collection of resources on modern C++.
+* [Rust Learning](https://github.com/ctjhoa/rust-learning) ⭐ 12,241 | 🐛 10 | 📅 2026-05-29 - A bunch of links to blog posts, articles, videos, etc for learning Rust.
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived
 * [Learn-C.org](http://www.learn-c.org) - [C](https://en.wikipedia.org/wiki/C_\(programming_language\)) is a general-purpose computer programming language developed at Bell Labs concurrently with UNIX. Most UNIX and NIX operating systems are still written in versions of C, with notable exceptions such as [Haiku](https://en.wikipedia.org/wiki/Haiku_\(operating_system\)) in [C++](https://en.wikipedia.org/wiki/C%2B%2B) and [Redox](https://en.wikipedia.org/wiki/Redox_\(operating_system\)) in [Rust](https://en.wikipedia.org/wiki/Rust_\(programming_language\)).
 
 #### Other Programming Languages
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 317,945 | 🐛 18 | 🌐 Python | 📅 2026-09-01 - A curated list of awesome Python frameworks, libraries, software, and resources.
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,644 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 318,183 | 🐛 17 | 🌐 Python | 📅 2026-09-01 - A curated list of awesome Python frameworks, libraries, software, and resources.
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,652 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
 * [Python Learning Resources](https://github.com/CodementorIO/Python-Learning-Resources) ⭐ 1,061 | 🐛 6 | 📅 2024-01-31 - Resources for learning Python.
 * [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran) ⭐ 415 | 🐛 2 | 📅 2026-07-02 - A curated list of Fortran libraries.
 * [Awesome Programming](https://github.com/hardikvasa/awesome-programming) ⭐ 231 | 🐛 3 | 📅 2018-03-06 - A curated list of awesome programming talks, articles, books, resources and more.
@@ -326,7 +326,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ### UNIX® Code/Emulation
 
-* [Unix History Repository](https://github.com/dspinellis/unix-history-repo) ⭐ 7,254 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - The source code of the original UNIX through its various versions implemented in git.
+* [Unix History Repository](https://github.com/dspinellis/unix-history-repo) ⭐ 7,256 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - The source code of the original UNIX through its various versions implemented in git.
 * [WinWorld Library](https://winworldpc.com/library/operating-systems) - Collection of abandonware operating systems, including many old UNIX and Unix-like operating systems.
 * [osabandonware](https://bitbucket.org/osabandonware/) - A git-based archive of abandonware operating systems.
 * [AT\&T 3B1 Emulator](http://www.philpem.me.uk/code/3b1emu/) - Emulate the original AT\&T UNIX.
@@ -341,7 +341,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ### Community
 
-* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,344 | 🐛 271 | 📅 2024-03-26
+* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,343 | 🐛 271 | 📅 2024-03-26
 * [nixCraft](https://www.cyberciti.biz) - NixCraft is an online community of new and seasoned Linux / Unix users.
 * [LWN](https://lwn.net) - LWN is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities.
 * [Reddit](https://www.reddit.com) - A social news aggregation, web content rating, and discussion website.
@@ -412,9 +412,9 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ## More macOS®
 
-* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 112,377 | 🐛 793 | 🌐 Swift | 📅 2026-09-03
+* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 112,434 | 🐛 800 | 🌐 Swift | 📅 2026-09-03
 * [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) ⚠️ Archived
-* [Mocker](https://github.com/us/mocker) ⭐ 340 | 🐛 4 | 🌐 Swift | 📅 2026-08-25 - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. Open source (AGPL-3.0), Swift.
+* [Mocker](https://github.com/us/mocker) ⭐ 341 | 🐛 4 | 🌐 Swift | 📅 2026-08-25 - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. Open source (AGPL-3.0), Swift.
 * [macOS for UNIX Users](http://images.apple.com/media/us/osx/2012/docs/OSX_for_UNIX_Users_TB_July2011.pdf) - Apple Technical Brief, July 2011.
 
 ## More illumos®
@@ -542,4 +542,4 @@ Portions of the descriptions above are from Wikipedia and used under [CC BY-SA 4
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
