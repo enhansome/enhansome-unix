@@ -112,7 +112,7 @@
                     "open_issues": 257,
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162248,
+                    "stars": 162270,
                     "topics": [
                       "bash",
                       "documentation",
@@ -172,11 +172,11 @@
                     "id": 21938243,
                     "language": "Rust",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-05T07:22:41Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-09-05T15:55:37Z",
+                    "open_issues": 10,
                     "owner": "rust-unofficial",
                     "repo": "awesome-rust",
-                    "stars": 59204,
+                    "stars": 59214,
                     "topics": [
                       "awesome",
                       "rust"
@@ -200,7 +200,7 @@
                     "open_issues": 12,
                     "owner": "matteocrippa",
                     "repo": "awesome-swift",
-                    "stars": 26241,
+                    "stars": 26240,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -235,7 +235,7 @@
                     "open_issues": 20,
                     "owner": "rigtorp",
                     "repo": "awesome-modern-cpp",
-                    "stars": 13149,
+                    "stars": 13150,
                     "topics": [
                       "cpp",
                       "cpp11",
@@ -263,7 +263,7 @@
                     "open_issues": 10,
                     "owner": "ctjhoa",
                     "repo": "rust-learning",
-                    "stars": 12242,
+                    "stars": 12243,
                     "topics": [
                       "blog-article",
                       "book",
@@ -326,7 +326,7 @@
                     "open_issues": 17,
                     "owner": "vinta",
                     "repo": "awesome-python",
-                    "stars": 318376,
+                    "stars": 318680,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -354,7 +354,7 @@
                     "open_issues": 62,
                     "owner": "bayandin",
                     "repo": "awesome-awesomeness",
-                    "stars": 33653,
+                    "stars": 33655,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
@@ -536,10 +536,10 @@
             "language": "Swift",
             "license": "CC0-1.0",
             "last_commit": "2026-09-05T08:48:30Z",
-            "open_issues": 805,
+            "open_issues": 820,
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 112511,
+            "stars": 112778,
             "topics": [
               "app",
               "apple",
@@ -580,7 +580,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30877,
+            "stars": 30880,
             "topics": [
               "awesome",
               "awesome-list",
@@ -741,7 +741,7 @@
             "open_issues": 0,
             "owner": "luong-komorebi",
             "repo": "Awesome-Linux-Software",
-            "stars": 25593,
+            "stars": 25594,
             "topics": [
               "applications",
               "awesome-list",
@@ -781,7 +781,7 @@
             "open_issues": 33,
             "owner": "inputsh",
             "repo": "awesome-linux",
-            "stars": 5137,
+            "stars": 5138,
             "topics": [
               "awesome",
               "awesome-list",
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:28:10.015Z",
+    "last_updated": "2026-09-06T13:42:19.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.",
