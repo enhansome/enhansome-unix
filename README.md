@@ -300,7 +300,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 #### Introductory UNIX® Skills
 
-* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,507 | 🐛 256 | 📅 2024-06-25 - Master the command line, in one page.
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,518 | 🐛 256 | 📅 2024-06-25 - Master the command line, in one page.
 * [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps) ⚠️ Archived
 * [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix.
 
@@ -308,19 +308,19 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 #### C Language and Derivatives
 
-* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,542 | 🐛 9 | 🌐 Rust | 📅 2026-09-25 - A curated list of Rust code and resources.
-* [Awesome Swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,277 | 🐛 15 | 🌐 Ruby | 📅 2026-09-01 - A collaborative list of awesome Swift libraries and resources.
-* [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,161 | 🐛 21 | 🌐 HTML | 📅 2024-08-20 - A collection of resources on modern C++.
+* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,563 | 🐛 12 | 🌐 Rust | 📅 2026-09-25 - A curated list of Rust code and resources.
+* [Awesome Swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,289 | 🐛 14 | 🌐 Ruby | 📅 2026-09-01 - A collaborative list of awesome Swift libraries and resources.
+* [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,162 | 🐛 20 | 🌐 HTML | 📅 2024-08-20 - A collection of resources on modern C++.
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) ⭐ 12,254 | 🐛 10 | 📅 2026-05-29 - A bunch of links to blog posts, articles, videos, etc for learning Rust.
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived
 * [Learn-C.org](http://www.learn-c.org) - [C](https://en.wikipedia.org/wiki/C_\(programming_language\)) is a general-purpose computer programming language developed at Bell Labs concurrently with UNIX. Most UNIX and NIX operating systems are still written in versions of C, with notable exceptions such as [Haiku](https://en.wikipedia.org/wiki/Haiku_\(operating_system\)) in [C++](https://en.wikipedia.org/wiki/C%2B%2B) and [Redox](https://en.wikipedia.org/wiki/Redox_\(operating_system\)) in [Rust](https://en.wikipedia.org/wiki/Rust_\(programming_language\)).
 
 #### Other Programming Languages
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 322,918 | 🐛 20 | 🌐 Python | 📅 2026-09-25 - A curated list of awesome Python frameworks, libraries, software, and resources.
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,687 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 323,181 | 🐛 21 | 🌐 Python | 📅 2026-09-25 - A curated list of awesome Python frameworks, libraries, software, and resources.
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,688 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
 * [Python Learning Resources](https://github.com/CodementorIO/Python-Learning-Resources) ⭐ 1,060 | 🐛 6 | 📅 2024-01-31 - Resources for learning Python.
-* [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran) ⭐ 415 | 🐛 3 | 📅 2026-07-02 - A curated list of Fortran libraries.
+* [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran) ⭐ 416 | 🐛 3 | 📅 2026-07-02 - A curated list of Fortran libraries.
 * [Awesome Programming](https://github.com/hardikvasa/awesome-programming) ⭐ 231 | 🐛 4 | 📅 2018-03-06 - A curated list of awesome programming talks, articles, books, resources and more.
 * [learning-fortran](https://github.com/pwittchen/learning-fortran) ⭐ 2 | 🐛 0 | 🌐 FORTRAN | 📅 2022-08-24 - Repository created in order to learn basics of Fortran, with links to several tutorials.
 
@@ -341,7 +341,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ### Community
 
-* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,337 | 🐛 274 | 📅 2024-03-26
+* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,339 | 🐛 274 | 📅 2024-03-26
 * [nixCraft](https://www.cyberciti.biz) - NixCraft is an online community of new and seasoned Linux / Unix users.
 * [LWN](https://lwn.net) - LWN is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities.
 * [Reddit](https://www.reddit.com) - A social news aggregation, web content rating, and discussion website.
@@ -412,7 +412,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ## More macOS®
 
-* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 114,836 | 🐛 977 | 🌐 Swift | 📅 2026-09-25
+* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 114,894 | 🐛 991 | 🌐 Swift | 📅 2026-09-25
 * [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) ⚠️ Archived
 * [Mocker](https://github.com/us/mocker) ⭐ 352 | 🐛 4 | 🌐 Swift | 📅 2026-08-25 - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. Open source (AGPL-3.0), Swift.
 * [macOS for UNIX Users](http://images.apple.com/media/us/osx/2012/docs/OSX_for_UNIX_Users_TB_July2011.pdf) - Apple Technical Brief, July 2011.
@@ -428,7 +428,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ## More BSD
 
-* [Awesome OpenBSD](https://github.com/ligurio/awesome-openbsd) ⭐ 487 | 🐛 2 | 📅 2025-05-05
+* [Awesome OpenBSD](https://github.com/ligurio/awesome-openbsd) ⭐ 488 | 🐛 2 | 📅 2025-05-05
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) ⭐ 432 | 🐛 2 | 📅 2026-04-02
 * [BSD Distributions Timeline](https://github.com/FabioLolix/BSD-Timeline) ⭐ 43 | 🐛 6 | 🌐 Shell | 📅 2022-06-12 - Graph of BSD distributions.
 * [allbsd.org](https://www.allbsd.org) - Resource that aims to support open source developers providing resources including web space, remote shell account service, and so on.
@@ -542,4 +542,4 @@ Portions of the descriptions above are from Wikipedia and used under [CC BY-SA 4
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
