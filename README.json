@@ -60,7 +60,7 @@
             "open_issues": 23,
             "owner": "minoca",
             "repo": "os",
-            "stars": 2787,
+            "stars": 2788,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:29.606Z"
@@ -112,7 +112,7 @@
                     "open_issues": 256,
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162563,
+                    "stars": 162559,
                     "topics": [
                       "bash",
                       "documentation",
@@ -127,7 +127,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome Command Line Apps",
-                  "description": null,
+                  "description": "herrbischoff/awesome-command-line-apps",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -140,7 +140,7 @@
                     "open_issues": 0,
                     "owner": "herrbischoff",
                     "repo": "awesome-command-line-apps",
-                    "stars": 4215,
+                    "stars": 4216,
                     "topics": [
                       "apps",
                       "awesome",
@@ -176,7 +176,7 @@
                     "open_issues": 9,
                     "owner": "rust-unofficial",
                     "repo": "awesome-rust",
-                    "stars": 59643,
+                    "stars": 59657,
                     "topics": [
                       "awesome",
                       "rust"
@@ -200,7 +200,7 @@
                     "open_issues": 16,
                     "owner": "matteocrippa",
                     "repo": "awesome-swift",
-                    "stars": 26310,
+                    "stars": 26309,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -263,7 +263,7 @@
                     "open_issues": 10,
                     "owner": "ctjhoa",
                     "repo": "rust-learning",
-                    "stars": 12251,
+                    "stars": 12250,
                     "topics": [
                       "blog-article",
                       "book",
@@ -280,7 +280,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome C",
-                  "description": null,
+                  "description": "inputsh/awesome-c",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -323,10 +323,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-02T12:01:28Z",
-                    "open_issues": 20,
+                    "open_issues": 21,
                     "owner": "vinta",
                     "repo": "awesome-python",
-                    "stars": 324664,
+                    "stars": 324781,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -341,7 +341,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome Awesomeness",
-                  "description": null,
+                  "description": "bayandin/awesome-awesomeness",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -494,7 +494,7 @@
             {
               "node_type": "item",
               "title": "Awesome Sysadmin",
-              "description": null,
+              "description": "kahun/awesome-sysadmin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -507,7 +507,7 @@
                 "open_issues": 273,
                 "owner": "kahun",
                 "repo": "awesome-sysadmin",
-                "stars": 24353,
+                "stars": 24354,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:29.606Z"
@@ -526,7 +526,7 @@
         {
           "node_type": "item",
           "title": "Awesome Mac",
-          "description": null,
+          "description": "jaywcjlove/awesome-mac",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -535,11 +535,11 @@
             "id": 63539055,
             "language": "Swift",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-02T07:15:33Z",
-            "open_issues": 1072,
+            "last_commit": "2026-10-03T04:26:43Z",
+            "open_issues": 1080,
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 115280,
+            "stars": 115304,
             "topics": [
               "app",
               "apple",
@@ -568,7 +568,7 @@
         {
           "node_type": "item",
           "title": "Awesome macOS Command Line",
-          "description": null,
+          "description": "herrbischoff/awesome-macos-command-line",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -610,7 +610,7 @@
             "open_issues": 2,
             "owner": "us",
             "repo": "mocker",
-            "stars": 355,
+            "stars": 356,
             "topics": [
               "apple-containerization",
               "cli",
@@ -635,7 +635,7 @@
         {
           "node_type": "item",
           "title": "Awesome OpenBSD",
-          "description": null,
+          "description": "ligurio/awesome-openbsd",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -648,7 +648,7 @@
             "open_issues": 2,
             "owner": "ligurio",
             "repo": "awesome-openbsd",
-            "stars": 488,
+            "stars": 487,
             "topics": [
               "hosting",
               "jobs",
@@ -664,7 +664,7 @@
         {
           "node_type": "item",
           "title": "Awesome BSD",
-          "description": null,
+          "description": "DiscoverBSD/awesome-bsd",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -729,7 +729,7 @@
         {
           "node_type": "item",
           "title": "Awesome Linux Software",
-          "description": null,
+          "description": "luong-komorebi/Awesome-Linux-Software",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -742,7 +742,7 @@
             "open_issues": 0,
             "owner": "luong-komorebi",
             "repo": "Awesome-Linux-Software",
-            "stars": 25618,
+            "stars": 25617,
             "topics": [
               "applications",
               "awesome-list",
@@ -769,7 +769,7 @@
         {
           "node_type": "item",
           "title": "Awesome Linux",
-          "description": null,
+          "description": "inputsh/awesome-linux",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -782,7 +782,7 @@
             "open_issues": 33,
             "owner": "inputsh",
             "repo": "awesome-linux",
-            "stars": 5156,
+            "stars": 5157,
             "topics": [
               "awesome",
               "awesome-list",
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:17:15.620Z",
+    "last_updated": "2026-10-03T05:12:07.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.",
