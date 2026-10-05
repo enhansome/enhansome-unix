@@ -15,8 +15,8 @@
             "id": 1259258,
             "language": "C",
             "license": "NCSA",
-            "last_commit": "2026-10-04T13:03:14Z",
-            "open_issues": 64,
+            "last_commit": "2026-10-05T13:50:19Z",
+            "open_issues": 63,
             "owner": "klange",
             "repo": "toaruos",
             "stars": 6855,
@@ -112,7 +112,7 @@
                     "open_issues": 256,
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162573,
+                    "stars": 162578,
                     "topics": [
                       "bash",
                       "documentation",
@@ -172,11 +172,11 @@
                     "id": 21938243,
                     "language": "Rust",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-04T15:08:54Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-10-05T15:02:35Z",
+                    "open_issues": 10,
                     "owner": "rust-unofficial",
                     "repo": "awesome-rust",
-                    "stars": 59672,
+                    "stars": 59680,
                     "topics": [
                       "awesome",
                       "rust"
@@ -231,11 +231,11 @@
                     "id": 55082941,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2024-08-20T19:26:37Z",
-                    "open_issues": 21,
+                    "last_commit": "2026-10-05T02:56:40Z",
+                    "open_issues": 0,
                     "owner": "rigtorp",
                     "repo": "awesome-modern-cpp",
-                    "stars": 13171,
+                    "stars": 13168,
                     "topics": [
                       "cpp",
                       "cpp11",
@@ -263,7 +263,7 @@
                     "open_issues": 10,
                     "owner": "ctjhoa",
                     "repo": "rust-learning",
-                    "stars": 12250,
+                    "stars": 12249,
                     "topics": [
                       "blog-article",
                       "book",
@@ -323,10 +323,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-02T12:01:28Z",
-                    "open_issues": 22,
+                    "open_issues": 19,
                     "owner": "vinta",
                     "repo": "awesome-python",
-                    "stars": 325103,
+                    "stars": 325366,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -354,7 +354,7 @@
                     "open_issues": 65,
                     "owner": "bayandin",
                     "repo": "awesome-awesomeness",
-                    "stars": 33698,
+                    "stars": 33702,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
@@ -507,7 +507,7 @@
                 "open_issues": 273,
                 "owner": "kahun",
                 "repo": "awesome-sysadmin",
-                "stars": 24354,
+                "stars": 24355,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:29.606Z"
@@ -535,11 +535,11 @@
             "id": 63539055,
             "language": "Swift",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-04T07:30:45Z",
-            "open_issues": 1099,
+            "last_commit": "2026-10-05T01:43:02Z",
+            "open_issues": 1112,
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 115390,
+            "stars": 115458,
             "topics": [
               "app",
               "apple",
@@ -581,7 +581,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30958,
+            "stars": 30962,
             "topics": [
               "awesome",
               "awesome-list",
@@ -607,10 +607,10 @@
             "language": "Swift",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-30T18:52:58Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "us",
             "repo": "mocker",
-            "stars": 358,
+            "stars": 359,
             "topics": [
               "apple-containerization",
               "cli",
@@ -742,7 +742,7 @@
             "open_issues": 0,
             "owner": "luong-komorebi",
             "repo": "Awesome-Linux-Software",
-            "stars": 25616,
+            "stars": 25618,
             "topics": [
               "applications",
               "awesome-list",
@@ -782,7 +782,7 @@
             "open_issues": 33,
             "owner": "inputsh",
             "repo": "awesome-linux",
-            "stars": 5158,
+            "stars": 5159,
             "topics": [
               "awesome",
               "awesome-list",
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:24:07.642Z",
+    "last_updated": "2026-10-05T19:18:54.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.",
@@ -839,7 +839,7 @@
       "open_issues": 3,
       "owner": "sirredbeard",
       "repo": "awesome-unix",
-      "stars": 1780,
+      "stars": 1781,
       "topics": [
         "awesome",
         "awesome-list",
