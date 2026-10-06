@@ -19,7 +19,7 @@
             "open_issues": 63,
             "owner": "klange",
             "repo": "toaruos",
-            "stars": 6855,
+            "stars": 6854,
             "topics": [
               "aarch64",
               "armv8",
@@ -172,11 +172,11 @@
                     "id": 21938243,
                     "language": "Rust",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-06T07:15:32Z",
+                    "last_commit": "2026-10-06T11:39:29Z",
                     "open_issues": 10,
                     "owner": "rust-unofficial",
                     "repo": "awesome-rust",
-                    "stars": 59690,
+                    "stars": 59696,
                     "topics": [
                       "awesome",
                       "rust"
@@ -200,7 +200,7 @@
                     "open_issues": 16,
                     "owner": "matteocrippa",
                     "repo": "awesome-swift",
-                    "stars": 26311,
+                    "stars": 26310,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -326,7 +326,7 @@
                     "open_issues": 19,
                     "owner": "vinta",
                     "repo": "awesome-python",
-                    "stars": 325514,
+                    "stars": 325592,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -354,7 +354,7 @@
                     "open_issues": 65,
                     "owner": "bayandin",
                     "repo": "awesome-awesomeness",
-                    "stars": 33705,
+                    "stars": 33706,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
@@ -471,7 +471,7 @@
                 "open_issues": 0,
                 "owner": "dspinellis",
                 "repo": "unix-history-repo",
-                "stars": 7272,
+                "stars": 7273,
                 "topics": [
                   "bell-labs",
                   "berkeley",
@@ -507,7 +507,7 @@
                 "open_issues": 273,
                 "owner": "kahun",
                 "repo": "awesome-sysadmin",
-                "stars": 24355,
+                "stars": 24356,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:29.606Z"
@@ -535,11 +535,11 @@
             "id": 63539055,
             "language": "Swift",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-06T09:07:55Z",
-            "open_issues": 1123,
+            "last_commit": "2026-10-06T16:44:45Z",
+            "open_issues": 1130,
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 115502,
+            "stars": 115523,
             "topics": [
               "app",
               "apple",
@@ -581,7 +581,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30963,
+            "stars": 30964,
             "topics": [
               "awesome",
               "awesome-list",
@@ -742,7 +742,7 @@
             "open_issues": 0,
             "owner": "luong-komorebi",
             "repo": "Awesome-Linux-Software",
-            "stars": 25619,
+            "stars": 25620,
             "topics": [
               "applications",
               "awesome-list",
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:53:08.888Z",
+    "last_updated": "2026-10-06T16:50:21.959Z",
     "original_repository_info": {
       "archived": false,
       "description": "All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.",
