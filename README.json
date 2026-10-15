@@ -19,7 +19,7 @@
             "open_issues": 63,
             "owner": "klange",
             "repo": "toaruos",
-            "stars": 6859,
+            "stars": 6862,
             "topics": [
               "aarch64",
               "armv8",
@@ -112,7 +112,7 @@
                     "open_issues": 256,
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162462,
+                    "stars": 162478,
                     "topics": [
                       "bash",
                       "documentation",
@@ -140,7 +140,7 @@
                     "open_issues": 0,
                     "owner": "herrbischoff",
                     "repo": "awesome-command-line-apps",
-                    "stars": 4219,
+                    "stars": 4220,
                     "topics": [
                       "apps",
                       "awesome",
@@ -172,11 +172,11 @@
                     "id": 21938243,
                     "language": "Rust",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-14T06:16:04Z",
-                    "open_issues": 11,
+                    "last_commit": "2026-10-15T06:14:57Z",
+                    "open_issues": 8,
                     "owner": "rust-unofficial",
                     "repo": "awesome-rust",
-                    "stars": 59853,
+                    "stars": 59868,
                     "topics": [
                       "awesome",
                       "rust"
@@ -197,7 +197,7 @@
                     "language": "Ruby",
                     "license": "CC0-1.0",
                     "last_commit": "2026-09-01T05:37:47Z",
-                    "open_issues": 18,
+                    "open_issues": 19,
                     "owner": "matteocrippa",
                     "repo": "awesome-swift",
                     "stars": 26318,
@@ -259,11 +259,11 @@
                     "id": 35210243,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-05-29T08:20:56Z",
-                    "open_issues": 10,
+                    "last_commit": "2026-10-15T07:51:27Z",
+                    "open_issues": 8,
                     "owner": "ctjhoa",
                     "repo": "rust-learning",
-                    "stars": 12255,
+                    "stars": 12256,
                     "topics": [
                       "blog-article",
                       "book",
@@ -322,11 +322,11 @@
                     "id": 21289110,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-12T10:22:02Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-10-15T04:45:50Z",
+                    "open_issues": 20,
                     "owner": "vinta",
                     "repo": "awesome-python",
-                    "stars": 327350,
+                    "stars": 327590,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -354,7 +354,7 @@
                     "open_issues": 64,
                     "owner": "bayandin",
                     "repo": "awesome-awesomeness",
-                    "stars": 33723,
+                    "stars": 33727,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
@@ -471,7 +471,7 @@
                 "open_issues": 0,
                 "owner": "dspinellis",
                 "repo": "unix-history-repo",
-                "stars": 7281,
+                "stars": 7282,
                 "topics": [
                   "bell-labs",
                   "berkeley",
@@ -507,7 +507,7 @@
                 "open_issues": 273,
                 "owner": "kahun",
                 "repo": "awesome-sysadmin",
-                "stars": 24352,
+                "stars": 24353,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:29.606Z"
@@ -535,11 +535,11 @@
             "id": 63539055,
             "language": "Swift",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-14T05:13:14Z",
-            "open_issues": 1343,
+            "last_commit": "2026-10-15T04:07:19Z",
+            "open_issues": 1372,
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 116113,
+            "stars": 116203,
             "topics": [
               "app",
               "apple",
@@ -581,7 +581,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 30982,
+            "stars": 30989,
             "topics": [
               "awesome",
               "awesome-list",
@@ -610,7 +610,7 @@
             "open_issues": 3,
             "owner": "us",
             "repo": "mocker",
-            "stars": 364,
+            "stars": 365,
             "topics": [
               "apple-containerization",
               "cli",
@@ -742,7 +742,7 @@
             "open_issues": 0,
             "owner": "luong-komorebi",
             "repo": "Awesome-Linux-Software",
-            "stars": 25634,
+            "stars": 25631,
             "topics": [
               "applications",
               "awesome-list",
@@ -782,7 +782,7 @@
             "open_issues": 33,
             "owner": "inputsh",
             "repo": "awesome-linux",
-            "stars": 5173,
+            "stars": 5175,
             "topics": [
               "awesome",
               "awesome-list",
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:12:04.969Z",
+    "last_updated": "2026-10-15T15:05:48.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.",
@@ -839,7 +839,7 @@
       "open_issues": 3,
       "owner": "sirredbeard",
       "repo": "awesome-unix",
-      "stars": 1782,
+      "stars": 1783,
       "topics": [
         "awesome",
         "awesome-list",
