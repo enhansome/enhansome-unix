@@ -230,8 +230,8 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 
 ## More Unix-Like Operating Systems
 
-* [ToaruOS](https://github.com/klange/toaruos) ⭐ 6,863 | 🐛 60 | 🌐 C | 📅 2026-10-18 - ToaruOS is a hobbyist, educational, Unix-like operating system built entirely from scratch. It includes a kernel, bootloader, dynamic linker, C standard library, composited windowing system, and several utilities and applications .
-* [Minoca OS](https://github.com/minoca/os) ⭐ 2,791 | 🐛 23 | 🌐 C | 📅 2021-12-17 - Minoca OS is a general purpose operating system written from scratch. It aims to be lean, maintainable, modular, and compatible with existing software.
+* [ToaruOS](https://github.com/klange/toaruos) ⭐ 6,863 | 🐛 60 | 🌐 C | 📅 2026-10-19 - ToaruOS is a hobbyist, educational, Unix-like operating system built entirely from scratch. It includes a kernel, bootloader, dynamic linker, C standard library, composited windowing system, and several utilities and applications .
+* [Minoca OS](https://github.com/minoca/os) ⭐ 2,792 | 🐛 23 | 🌐 C | 📅 2021-12-17 - Minoca OS is a general purpose operating system written from scratch. It aims to be lean, maintainable, modular, and compatible with existing software.
 * [Akaros](https://github.com/brho/akaros) ⭐ 327 | 🐛 12 | 🌐 C | 📅 2022-02-24 - Akaros is an open source, GPL-licensed operating system for manycore architectures. The goal is to provide support for parallel and high-performance applications and to scale to a large number of cores .
 * [Minix®](http://www.minix3.org) - Minix® is a POSIX®-compliant Unix-like computer operating system based on a microkernel architecture. In 2017 it was learned that Intel™ used a version of MINIX on many of its x86-series processors, perhaps making it the most popular Unix-like operating system .
 * [Haiku](https://www.haiku-os.org) - Haiku is a free and open-source operating system compatible with the now-discontinued BeOS.® Its development began in 2001, and the operating system became self-hosting in 2008 .
@@ -300,7 +300,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 #### Introductory UNIX® Skills
 
-* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,539 | 🐛 256 | 📅 2024-06-25 - Master the command line, in one page.
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,549 | 🐛 256 | 📅 2024-06-25 - Master the command line, in one page.
 * [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps) ⚠️ Archived
 * [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix.
 
@@ -308,17 +308,17 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 #### C Language and Derivatives
 
-* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,939 | 🐛 9 | 🌐 Rust | 📅 2026-10-18 - A curated list of Rust code and resources.
-* [Awesome Swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,329 | 🐛 20 | 🌐 Ruby | 📅 2026-09-01 - A collaborative list of awesome Swift libraries and resources.
-* [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,173 | 🐛 0 | 🌐 HTML | 📅 2026-10-05 - A collection of resources on modern C++.
-* [Rust Learning](https://github.com/ctjhoa/rust-learning) ⭐ 12,253 | 🐛 8 | 📅 2026-10-15 - A bunch of links to blog posts, articles, videos, etc for learning Rust.
+* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,956 | 🐛 8 | 🌐 Rust | 📅 2026-10-19 - A curated list of Rust code and resources.
+* [Awesome Swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,333 | 🐛 20 | 🌐 Ruby | 📅 2026-09-01 - A collaborative list of awesome Swift libraries and resources.
+* [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,178 | 🐛 0 | 🌐 HTML | 📅 2026-10-05 - A collection of resources on modern C++.
+* [Rust Learning](https://github.com/ctjhoa/rust-learning) ⭐ 12,254 | 🐛 8 | 📅 2026-10-15 - A bunch of links to blog posts, articles, videos, etc for learning Rust.
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived
 * [Learn-C.org](http://www.learn-c.org) - [C](https://en.wikipedia.org/wiki/C_\(programming_language\)) is a general-purpose computer programming language developed at Bell Labs concurrently with UNIX. Most UNIX and NIX operating systems are still written in versions of C, with notable exceptions such as [Haiku](https://en.wikipedia.org/wiki/Haiku_\(operating_system\)) in [C++](https://en.wikipedia.org/wiki/C%2B%2B) and [Redox](https://en.wikipedia.org/wiki/Redox_\(operating_system\)) in [Rust](https://en.wikipedia.org/wiki/Rust_\(programming_language\)).
 
 #### Other Programming Languages
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 328,362 | 🐛 24 | 🌐 Python | 📅 2026-10-17 - A curated list of awesome Python frameworks, libraries, software, and resources.
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,729 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 328,663 | 🐛 16 | 🌐 Python | 📅 2026-10-19 - A curated list of awesome Python frameworks, libraries, software, and resources.
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,731 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
 * [Python Learning Resources](https://github.com/CodementorIO/Python-Learning-Resources) ⭐ 1,061 | 🐛 6 | 📅 2024-01-31 - Resources for learning Python.
 * [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran) ⭐ 416 | 🐛 3 | 📅 2026-07-02 - A curated list of Fortran libraries.
 * [Awesome Programming](https://github.com/hardikvasa/awesome-programming) ⭐ 231 | 🐛 4 | 📅 2018-03-06 - A curated list of awesome programming talks, articles, books, resources and more.
@@ -341,7 +341,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ### Community
 
-* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,355 | 🐛 272 | 📅 2024-03-26
+* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,352 | 🐛 272 | 📅 2024-03-26
 * [nixCraft](https://www.cyberciti.biz) - NixCraft is an online community of new and seasoned Linux / Unix users.
 * [LWN](https://lwn.net) - LWN is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities.
 * [Reddit](https://www.reddit.com) - A social news aggregation, web content rating, and discussion website.
@@ -412,9 +412,9 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ## More macOS®
 
-* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 116,422 | 🐛 1,440 | 🌐 Swift | 📅 2026-10-18
+* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 116,497 | 🐛 1,461 | 🌐 Swift | 📅 2026-10-19
 * [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) ⚠️ Archived
-* [Mocker](https://github.com/us/mocker) ⭐ 368 | 🐛 4 | 🌐 Swift | 📅 2026-09-30 - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. Open source (AGPL-3.0), Swift.
+* [Mocker](https://github.com/us/mocker) ⭐ 369 | 🐛 5 | 🌐 Swift | 📅 2026-10-19 - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. Open source (AGPL-3.0), Swift.
 * [macOS for UNIX Users](http://images.apple.com/media/us/osx/2012/docs/OSX_for_UNIX_Users_TB_July2011.pdf) - Apple Technical Brief, July 2011.
 
 ## More illumos®
@@ -428,7 +428,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ## More BSD
 
-* [Awesome OpenBSD](https://github.com/ligurio/awesome-openbsd) ⭐ 488 | 🐛 2 | 📅 2025-05-05
+* [Awesome OpenBSD](https://github.com/ligurio/awesome-openbsd) ⭐ 489 | 🐛 2 | 📅 2025-05-05
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) ⭐ 435 | 🐛 2 | 📅 2026-10-16
 * [BSD Distributions Timeline](https://github.com/FabioLolix/BSD-Timeline) ⭐ 43 | 🐛 6 | 🌐 Shell | 📅 2022-06-12 - Graph of BSD distributions.
 * [allbsd.org](https://www.allbsd.org) - Resource that aims to support open source developers providing resources including web space, remote shell account service, and so on.
@@ -542,4 +542,4 @@ Portions of the descriptions above are from Wikipedia and used under [CC BY-SA 4
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
