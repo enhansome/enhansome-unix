@@ -9,7 +9,7 @@
           "description": "ToaruOS is a hobbyist, educational, Unix-like operating system built entirely from scratch. It includes a kernel, bootloader, dynamic linker, C standard library, composited windowing system, and several utilities and applications .",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Complete, independent operating system built by humans.",
             "homepage": "https://toaruos.org/",
             "id": 1259258,
@@ -19,7 +19,7 @@
             "open_issues": 60,
             "owner": "klange",
             "repo": "toaruos",
-            "stars": 6865,
+            "stars": 6864,
             "topics": [
               "aarch64",
               "armv8",
@@ -60,7 +60,7 @@
             "open_issues": 23,
             "owner": "minoca",
             "repo": "os",
-            "stars": 2792,
+            "stars": 2790,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:29.606Z"
@@ -112,7 +112,7 @@
                     "open_issues": 256,
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162601,
+                    "stars": 162606,
                     "topics": [
                       "bash",
                       "documentation",
@@ -140,7 +140,7 @@
                     "open_issues": 0,
                     "owner": "herrbischoff",
                     "repo": "awesome-command-line-apps",
-                    "stars": 4227,
+                    "stars": 4226,
                     "topics": [
                       "apps",
                       "awesome",
@@ -172,11 +172,11 @@
                     "id": 21938243,
                     "language": "Rust",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-26T14:37:06Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-10-27T14:55:44Z",
+                    "open_issues": 8,
                     "owner": "rust-unofficial",
                     "repo": "awesome-rust",
-                    "stars": 60141,
+                    "stars": 60150,
                     "topics": [
                       "awesome",
                       "rust"
@@ -200,7 +200,7 @@
                     "open_issues": 4,
                     "owner": "matteocrippa",
                     "repo": "awesome-swift",
-                    "stars": 26352,
+                    "stars": 26351,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -235,7 +235,7 @@
                     "open_issues": 0,
                     "owner": "rigtorp",
                     "repo": "awesome-modern-cpp",
-                    "stars": 13186,
+                    "stars": 13187,
                     "topics": [
                       "cpp",
                       "cpp11",
@@ -263,7 +263,7 @@
                     "open_issues": 8,
                     "owner": "ctjhoa",
                     "repo": "rust-learning",
-                    "stars": 12269,
+                    "stars": 12272,
                     "topics": [
                       "blog-article",
                       "book",
@@ -322,11 +322,11 @@
                     "id": 21289110,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-26T04:44:34Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-10-27T13:08:24Z",
+                    "open_issues": 18,
                     "owner": "vinta",
                     "repo": "awesome-python",
-                    "stars": 330414,
+                    "stars": 330632,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -354,7 +354,7 @@
                     "open_issues": 64,
                     "owner": "bayandin",
                     "repo": "awesome-awesomeness",
-                    "stars": 33748,
+                    "stars": 33750,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
@@ -507,7 +507,7 @@
                 "open_issues": 274,
                 "owner": "kahun",
                 "repo": "awesome-sysadmin",
-                "stars": 24351,
+                "stars": 24350,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:29.606Z"
@@ -535,11 +535,11 @@
             "id": 63539055,
             "language": "Swift",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-26T14:49:47Z",
-            "open_issues": 1659,
+            "last_commit": "2026-10-27T15:03:57Z",
+            "open_issues": 1679,
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 117096,
+            "stars": 117172,
             "topics": [
               "app",
               "apple",
@@ -581,7 +581,7 @@
             "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "awesome-macos-command-line",
-            "stars": 31050,
+            "stars": 31053,
             "topics": [
               "awesome",
               "awesome-list",
@@ -607,10 +607,10 @@
             "language": "Swift",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-25T22:02:07Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "us",
             "repo": "mocker",
-            "stars": 371,
+            "stars": 372,
             "topics": [
               "apple-containerization",
               "cli",
@@ -742,7 +742,7 @@
             "open_issues": 0,
             "owner": "luong-komorebi",
             "repo": "Awesome-Linux-Software",
-            "stars": 25648,
+            "stars": 25650,
             "topics": [
               "applications",
               "awesome-list",
@@ -811,7 +811,7 @@
             "open_issues": 61,
             "owner": "FabioLolix",
             "repo": "LinuxTimeline",
-            "stars": 2207,
+            "stars": 2208,
             "topics": [
               "linux",
               "linux-distributions-timeline",
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T16:48:56.948Z",
+    "last_updated": "2026-10-27T15:54:09.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.",
