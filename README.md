@@ -183,7 +183,7 @@ The Most Popular *Unix-Like* Operating System. These operating systems are not U
 * [Bedrock](https://bedrocklinux.org/) - Bedrock Linux is a Linux distribution that currently installs from an existing Linux installation, allowing the user to select a preferred init at boot time and install Linux packages from multiple distributions at the same time .
 * [GoboLinux](https://www.gobolinux.org) - GoboLinux is an alternative Linux distribution which redefines the entire filesystem hierarchy. In GoboLinux you don't need a package database because the filesystem is the database .
 * [GNUSTEP](http://www.aiei.ch/gnustep/) - GNUSTEP is a Linux live CD distribution based on Debian that prominently features the [GNUstep](https://en.wikipedia.org/wiki/GNUstep) application frameworks, a free software re-implementation of the OPENSTEP and Cocoa frameworks originally developed by NeXT with Sun Microsystems.
-* [oasis](https://github.com/michaelforney/oasis) ⭐ 3,122 | 🐛 34 | 🌐 Roff | 📅 2026-10-23 - A small statically-linked linux system suitable for a range of uses including server and desktop. The entire system can be compiled in minutes .
+* [oasis](https://github.com/michaelforney/oasis) ⭐ 3,124 | 🐛 34 | 🌐 Roff | 📅 2026-10-28 - A small statically-linked linux system suitable for a range of uses including server and desktop. The entire system can be compiled in minutes .
 * [Tails](https://tails.boum.org) - Tails is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity  .
 * [Red Star OS](https://en.wikipedia.org/wiki/Red_Star_OS) - Red Star OS is a North Korean Linux operating system developed for use in North Korea that computer researches have [noted](https://www.reuters.com/article/northkorea-computers/paranoid-north-koreas-computer-operating-system-mirrors-its-political-one-idUSKBN0UA0GF20151227) watermarks every document and media file on a computer or on any USB stick connected to it.
 * [Kali Linux](https://www.kali.org/) - Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. It is maintained and funded by Offensive Security Ltd .
@@ -231,7 +231,7 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 ## More Unix-Like Operating Systems
 
 * [ToaruOS](https://github.com/klange/toaruos) ⚠️ Archived - ToaruOS is a hobbyist, educational, Unix-like operating system built entirely from scratch. It includes a kernel, bootloader, dynamic linker, C standard library, composited windowing system, and several utilities and applications .
-* [Minoca OS](https://github.com/minoca/os) ⭐ 2,790 | 🐛 23 | 🌐 C | 📅 2021-12-17 - Minoca OS is a general purpose operating system written from scratch. It aims to be lean, maintainable, modular, and compatible with existing software.
+* [Minoca OS](https://github.com/minoca/os) ⭐ 2,789 | 🐛 23 | 🌐 C | 📅 2021-12-17 - Minoca OS is a general purpose operating system written from scratch. It aims to be lean, maintainable, modular, and compatible with existing software.
 * [Akaros](https://github.com/brho/akaros) ⭐ 326 | 🐛 12 | 🌐 C | 📅 2022-02-24 - Akaros is an open source, GPL-licensed operating system for manycore architectures. The goal is to provide support for parallel and high-performance applications and to scale to a large number of cores .
 * [Minix®](http://www.minix3.org) - Minix® is a POSIX®-compliant Unix-like computer operating system based on a microkernel architecture. In 2017 it was learned that Intel™ used a version of MINIX on many of its x86-series processors, perhaps making it the most popular Unix-like operating system .
 * [Haiku](https://www.haiku-os.org) - Haiku is a free and open-source operating system compatible with the now-discontinued BeOS.® Its development began in 2001, and the operating system became self-hosting in 2008 .
@@ -300,7 +300,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 #### Introductory UNIX® Skills
 
-* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,606 | 🐛 256 | 📅 2024-06-25 - Master the command line, in one page.
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,617 | 🐛 256 | 📅 2024-06-25 - Master the command line, in one page.
 * [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps) ⚠️ Archived
 * [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix.
 
@@ -308,17 +308,17 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 #### C Language and Derivatives
 
-* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 60,150 | 🐛 8 | 🌐 Rust | 📅 2026-10-27 - A curated list of Rust code and resources.
-* [Awesome Swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,351 | 🐛 4 | 🌐 Ruby | 📅 2026-10-25 - A collaborative list of awesome Swift libraries and resources.
+* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 60,167 | 🐛 8 | 🌐 Rust | 📅 2026-10-28 - A curated list of Rust code and resources.
+* [Awesome Swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,353 | 🐛 4 | 🌐 Ruby | 📅 2026-10-25 - A collaborative list of awesome Swift libraries and resources.
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,187 | 🐛 0 | 🌐 HTML | 📅 2026-10-05 - A collection of resources on modern C++.
-* [Rust Learning](https://github.com/ctjhoa/rust-learning) ⭐ 12,272 | 🐛 8 | 📅 2026-10-15 - A bunch of links to blog posts, articles, videos, etc for learning Rust.
+* [Rust Learning](https://github.com/ctjhoa/rust-learning) ⭐ 12,273 | 🐛 8 | 📅 2026-10-15 - A bunch of links to blog posts, articles, videos, etc for learning Rust.
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived
 * [Learn-C.org](http://www.learn-c.org) - [C](https://en.wikipedia.org/wiki/C_\(programming_language\)) is a general-purpose computer programming language developed at Bell Labs concurrently with UNIX. Most UNIX and NIX operating systems are still written in versions of C, with notable exceptions such as [Haiku](https://en.wikipedia.org/wiki/Haiku_\(operating_system\)) in [C++](https://en.wikipedia.org/wiki/C%2B%2B) and [Redox](https://en.wikipedia.org/wiki/Redox_\(operating_system\)) in [Rust](https://en.wikipedia.org/wiki/Rust_\(programming_language\)).
 
 #### Other Programming Languages
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 330,632 | 🐛 18 | 🌐 Python | 📅 2026-10-27 - A curated list of awesome Python frameworks, libraries, software, and resources.
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,750 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 330,873 | 🐛 21 | 🌐 Python | 📅 2026-10-28 - A curated list of awesome Python frameworks, libraries, software, and resources.
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,752 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
 * [Python Learning Resources](https://github.com/CodementorIO/Python-Learning-Resources) ⭐ 1,061 | 🐛 6 | 📅 2024-01-31 - Resources for learning Python.
 * [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran) ⭐ 415 | 🐛 3 | 📅 2026-07-02 - A curated list of Fortran libraries.
 * [Awesome Programming](https://github.com/hardikvasa/awesome-programming) ⭐ 231 | 🐛 4 | 📅 2018-03-06 - A curated list of awesome programming talks, articles, books, resources and more.
@@ -326,7 +326,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ### UNIX® Code/Emulation
 
-* [Unix History Repository](https://github.com/dspinellis/unix-history-repo) ⭐ 7,290 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - The source code of the original UNIX through its various versions implemented in git.
+* [Unix History Repository](https://github.com/dspinellis/unix-history-repo) ⭐ 7,289 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - The source code of the original UNIX through its various versions implemented in git.
 * [WinWorld Library](https://winworldpc.com/library/operating-systems) - Collection of abandonware operating systems, including many old UNIX and Unix-like operating systems.
 * [osabandonware](https://bitbucket.org/osabandonware/) - A git-based archive of abandonware operating systems.
 * [AT\&T 3B1 Emulator](http://www.philpem.me.uk/code/3b1emu/) - Emulate the original AT\&T UNIX.
@@ -341,7 +341,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ### Community
 
-* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,350 | 🐛 274 | 📅 2024-03-26
+* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,349 | 🐛 274 | 📅 2024-03-26
 * [nixCraft](https://www.cyberciti.biz) - NixCraft is an online community of new and seasoned Linux / Unix users.
 * [LWN](https://lwn.net) - LWN is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities.
 * [Reddit](https://www.reddit.com) - A social news aggregation, web content rating, and discussion website.
@@ -412,7 +412,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ## More macOS®
 
-* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 117,172 | 🐛 1,679 | 🌐 Swift | 📅 2026-10-27
+* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 117,249 | 🐛 1,717 | 🌐 Swift | 📅 2026-10-28
 * [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) ⚠️ Archived
 * [Mocker](https://github.com/us/mocker) ⭐ 372 | 🐛 1 | 🌐 Swift | 📅 2026-10-25 - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. Open source (AGPL-3.0), Swift.
 * [macOS for UNIX Users](http://images.apple.com/media/us/osx/2012/docs/OSX_for_UNIX_Users_TB_July2011.pdf) - Apple Technical Brief, July 2011.
@@ -428,7 +428,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ## More BSD
 
-* [Awesome OpenBSD](https://github.com/ligurio/awesome-openbsd) ⭐ 489 | 🐛 2 | 📅 2025-05-05
+* [Awesome OpenBSD](https://github.com/ligurio/awesome-openbsd) ⭐ 490 | 🐛 2 | 📅 2025-05-05
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) ⭐ 437 | 🐛 2 | 📅 2026-10-16
 * [BSD Distributions Timeline](https://github.com/FabioLolix/BSD-Timeline) ⭐ 43 | 🐛 6 | 🌐 Shell | 📅 2022-06-12 - Graph of BSD distributions.
 * [allbsd.org](https://www.allbsd.org) - Resource that aims to support open source developers providing resources including web space, remote shell account service, and so on.
@@ -542,4 +542,4 @@ Portions of the descriptions above are from Wikipedia and used under [CC BY-SA 4
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
