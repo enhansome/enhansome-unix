@@ -231,7 +231,7 @@ Solaris® was originally a UNIX operating system developed jointly by Sun Micros
 ## More Unix-Like Operating Systems
 
 * [ToaruOS](https://github.com/klange/toaruos) ⚠️ Archived - ToaruOS is a hobbyist, educational, Unix-like operating system built entirely from scratch. It includes a kernel, bootloader, dynamic linker, C standard library, composited windowing system, and several utilities and applications .
-* [Minoca OS](https://github.com/minoca/os) ⭐ 2,790 | 🐛 23 | 🌐 C | 📅 2021-12-17 - Minoca OS is a general purpose operating system written from scratch. It aims to be lean, maintainable, modular, and compatible with existing software.
+* [Minoca OS](https://github.com/minoca/os) ⭐ 2,792 | 🐛 23 | 🌐 C | 📅 2021-12-17 - Minoca OS is a general purpose operating system written from scratch. It aims to be lean, maintainable, modular, and compatible with existing software.
 * [Akaros](https://github.com/brho/akaros) ⭐ 326 | 🐛 12 | 🌐 C | 📅 2022-02-24 - Akaros is an open source, GPL-licensed operating system for manycore architectures. The goal is to provide support for parallel and high-performance applications and to scale to a large number of cores .
 * [Minix®](http://www.minix3.org) - Minix® is a POSIX®-compliant Unix-like computer operating system based on a microkernel architecture. In 2017 it was learned that Intel™ used a version of MINIX on many of its x86-series processors, perhaps making it the most popular Unix-like operating system .
 * [Haiku](https://www.haiku-os.org) - Haiku is a free and open-source operating system compatible with the now-discontinued BeOS.® Its development began in 2001, and the operating system became self-hosting in 2008 .
@@ -300,7 +300,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 #### Introductory UNIX® Skills
 
-* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,628 | 🐛 256 | 📅 2024-06-25 - Master the command line, in one page.
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,639 | 🐛 256 | 📅 2024-06-25 - Master the command line, in one page.
 * [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps) ⚠️ Archived
 * [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix.
 
@@ -308,8 +308,8 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 #### C Language and Derivatives
 
-* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 60,208 | 🐛 8 | 🌐 Rust | 📅 2026-10-30 - A curated list of Rust code and resources.
-* [Awesome Swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,352 | 🐛 13 | 🌐 Ruby | 📅 2026-10-25 - A collaborative list of awesome Swift libraries and resources.
+* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 60,235 | 🐛 8 | 🌐 Rust | 📅 2026-10-31 - A curated list of Rust code and resources.
+* [Awesome Swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,354 | 🐛 14 | 🌐 Ruby | 📅 2026-10-25 - A collaborative list of awesome Swift libraries and resources.
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,186 | 🐛 0 | 🌐 HTML | 📅 2026-10-05 - A collection of resources on modern C++.
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) ⭐ 12,276 | 🐛 8 | 📅 2026-10-15 - A bunch of links to blog posts, articles, videos, etc for learning Rust.
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived
@@ -317,8 +317,8 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 #### Other Programming Languages
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 331,342 | 🐛 22 | 🌐 Python | 📅 2026-10-29 - A curated list of awesome Python frameworks, libraries, software, and resources.
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,757 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 331,526 | 🐛 22 | 🌐 Python | 📅 2026-10-31 - A curated list of awesome Python frameworks, libraries, software, and resources.
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,759 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
 * [Python Learning Resources](https://github.com/CodementorIO/Python-Learning-Resources) ⭐ 1,061 | 🐛 6 | 📅 2024-01-31 - Resources for learning Python.
 * [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran) ⭐ 416 | 🐛 3 | 📅 2026-07-02 - A curated list of Fortran libraries.
 * [Awesome Programming](https://github.com/hardikvasa/awesome-programming) ⭐ 231 | 🐛 4 | 📅 2018-03-06 - A curated list of awesome programming talks, articles, books, resources and more.
@@ -326,7 +326,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ### UNIX® Code/Emulation
 
-* [Unix History Repository](https://github.com/dspinellis/unix-history-repo) ⭐ 7,288 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - The source code of the original UNIX through its various versions implemented in git.
+* [Unix History Repository](https://github.com/dspinellis/unix-history-repo) ⭐ 7,291 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - The source code of the original UNIX through its various versions implemented in git.
 * [WinWorld Library](https://winworldpc.com/library/operating-systems) - Collection of abandonware operating systems, including many old UNIX and Unix-like operating systems.
 * [osabandonware](https://bitbucket.org/osabandonware/) - A git-based archive of abandonware operating systems.
 * [AT\&T 3B1 Emulator](http://www.philpem.me.uk/code/3b1emu/) - Emulate the original AT\&T UNIX.
@@ -341,7 +341,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ### Community
 
-* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,349 | 🐛 274 | 📅 2024-03-26
+* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,348 | 🐛 274 | 📅 2024-03-26
 * [nixCraft](https://www.cyberciti.biz) - NixCraft is an online community of new and seasoned Linux / Unix users.
 * [LWN](https://lwn.net) - LWN is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities.
 * [Reddit](https://www.reddit.com) - A social news aggregation, web content rating, and discussion website.
@@ -412,7 +412,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 ## More macOS®
 
-* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 117,386 | 🐛 1,770 | 🌐 Swift | 📅 2026-10-30
+* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 117,448 | 🐛 1,800 | 🌐 Swift | 📅 2026-10-31
 * [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) ⚠️ Archived
 * [Mocker](https://github.com/us/mocker) ⭐ 372 | 🐛 0 | 🌐 Swift | 📅 2026-10-28 - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. Open source (AGPL-3.0), Swift.
 * [macOS for UNIX Users](http://images.apple.com/media/us/osx/2012/docs/OSX_for_UNIX_Users_TB_July2011.pdf) - Apple Technical Brief, July 2011.
@@ -445,7 +445,7 @@ A [real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating
 
 * [Awesome Linux Software](https://github.com/LewisVo/Awesome-Linux-Software) ⚠️ Archived
 * [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) ⚠️ Archived
-* [Linux Distribution Timeline](https://github.com/FabioLolix/LinuxTimeline) ⭐ 2,208 | 🐛 61 | 🌐 Shell | 📅 2025-12-09 - Graph of Linux distributions.
+* [Linux Distribution Timeline](https://github.com/FabioLolix/LinuxTimeline) ⭐ 2,209 | 🐛 61 | 🌐 Shell | 📅 2025-12-09 - Graph of Linux distributions.
 * [Revolution OS](https://www.youtube.com/watch?v=Eluzi70O-P4) - Revolution OS is a 2001 documentary which traces the history of GNU, Linux, and the open source and free software movements. (2001). 📼
 * [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base) - LSB is an effort to develop a unifying set of standards for Linux not unlike the Open Group's standards for UNIX.
 * [Archive OS Linux](https://archiveos.org/linux/) - Archive of Linux distributions.
@@ -542,4 +542,4 @@ Portions of the descriptions above are from Wikipedia and used under [CC BY-SA 4
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
