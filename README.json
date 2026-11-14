@@ -112,7 +112,7 @@
                     "open_issues": 256,
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162744,
+                    "stars": 162754,
                     "topics": [
                       "bash",
                       "documentation",
@@ -172,11 +172,11 @@
                     "id": 21938243,
                     "language": "Rust",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-11-12T23:29:39Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-11-14T15:07:52Z",
+                    "open_issues": 8,
                     "owner": "rust-unofficial",
                     "repo": "awesome-rust",
-                    "stars": 60511,
+                    "stars": 60536,
                     "topics": [
                       "awesome",
                       "rust"
@@ -200,7 +200,7 @@
                     "open_issues": 24,
                     "owner": "matteocrippa",
                     "repo": "awesome-swift",
-                    "stars": 26372,
+                    "stars": 26374,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -235,7 +235,7 @@
                     "open_issues": 0,
                     "owner": "rigtorp",
                     "repo": "awesome-modern-cpp",
-                    "stars": 13191,
+                    "stars": 13192,
                     "topics": [
                       "cpp",
                       "cpp11",
@@ -326,7 +326,7 @@
                     "open_issues": 23,
                     "owner": "vinta",
                     "repo": "awesome-python",
-                    "stars": 334500,
+                    "stars": 334705,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -354,7 +354,7 @@
                     "open_issues": 66,
                     "owner": "bayandin",
                     "repo": "awesome-awesomeness",
-                    "stars": 33786,
+                    "stars": 33788,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:29.606Z"
@@ -471,7 +471,7 @@
                 "open_issues": 0,
                 "owner": "dspinellis",
                 "repo": "unix-history-repo",
-                "stars": 7318,
+                "stars": 7319,
                 "topics": [
                   "bell-labs",
                   "berkeley",
@@ -535,11 +535,11 @@
             "id": 63539055,
             "language": "Swift",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-13T17:42:12Z",
-            "open_issues": 2121,
+            "last_commit": "2026-11-14T12:29:07Z",
+            "open_issues": 2138,
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 118448,
+            "stars": 118514,
             "topics": [
               "app",
               "apple",
@@ -648,7 +648,7 @@
             "open_issues": 2,
             "owner": "ligurio",
             "repo": "awesome-openbsd",
-            "stars": 490,
+            "stars": 491,
             "topics": [
               "hosting",
               "jobs",
@@ -677,7 +677,7 @@
             "open_issues": 2,
             "owner": "DiscoverBSD",
             "repo": "awesome-bsd",
-            "stars": 437,
+            "stars": 438,
             "topics": [
               "awesome",
               "bsd",
@@ -782,7 +782,7 @@
             "open_issues": 33,
             "owner": "inputsh",
             "repo": "awesome-linux",
-            "stars": 5194,
+            "stars": 5196,
             "topics": [
               "awesome",
               "awesome-list",
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:48:19.409Z",
+    "last_updated": "2026-11-14T16:37:46.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.",
