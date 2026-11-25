@@ -112,7 +112,7 @@
                     "open_issues": 256,
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162836,
+                    "stars": 162848,
                     "topics": [
                       "bash",
                       "documentation",
@@ -173,10 +173,10 @@
                     "language": "Rust",
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-24T12:09:48Z",
-                    "open_issues": 11,
+                    "open_issues": 13,
                     "owner": "rust-unofficial",
                     "repo": "awesome-rust",
-                    "stars": 60788,
+                    "stars": 60810,
                     "topics": [
                       "awesome",
                       "rust"
@@ -200,7 +200,7 @@
                     "open_issues": 27,
                     "owner": "matteocrippa",
                     "repo": "awesome-swift",
-                    "stars": 26403,
+                    "stars": 26406,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -263,7 +263,7 @@
                     "open_issues": 8,
                     "owner": "ctjhoa",
                     "repo": "rust-learning",
-                    "stars": 12291,
+                    "stars": 12294,
                     "topics": [
                       "blog-article",
                       "book",
@@ -323,10 +323,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-17T10:02:01Z",
-                    "open_issues": 24,
+                    "open_issues": 25,
                     "owner": "vinta",
                     "repo": "awesome-python",
-                    "stars": 336899,
+                    "stars": 337117,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -504,10 +504,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2024-03-26T23:45:17Z",
-                "open_issues": 275,
+                "open_issues": 274,
                 "owner": "kahun",
                 "repo": "awesome-sysadmin",
-                "stars": 24368,
+                "stars": 24370,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:29.606Z"
@@ -535,11 +535,11 @@
             "id": 63539055,
             "language": "Swift",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-24T16:43:12Z",
-            "open_issues": 2389,
+            "last_commit": "2026-11-25T13:57:43Z",
+            "open_issues": 2409,
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 119268,
+            "stars": 119362,
             "topics": [
               "app",
               "apple",
@@ -648,7 +648,7 @@
             "open_issues": 3,
             "owner": "ligurio",
             "repo": "awesome-openbsd",
-            "stars": 491,
+            "stars": 490,
             "topics": [
               "hosting",
               "jobs",
@@ -742,7 +742,7 @@
             "open_issues": 0,
             "owner": "luong-komorebi",
             "repo": "Awesome-Linux-Software",
-            "stars": 25665,
+            "stars": 25668,
             "topics": [
               "applications",
               "awesome-list",
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T20:41:29.346Z",
+    "last_updated": "2026-11-25T19:57:52.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.",
